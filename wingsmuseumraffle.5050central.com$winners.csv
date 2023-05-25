@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,A-7687031,1,Jackpot,1352,Stefanie C.,30,9,2022
 Grand Prize,2,B-9717933,1,Jackpot,532,Robert G.,28,10,2022
+Early Bird,3,A-2134156,2,1 Hour in the Redbird FMX Flight Simulator,0,Shelby S.,25,5,2023
