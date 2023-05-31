@@ -1,1 +1,12 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,DC-1100774,2,$15000,0,Scott Thibeault (Group of 5),14,12,2022
+Grand Prize,1,DC-2675054,1,$139492.50,0,Floricel Bahay,30,12,2022
+Early Bird,2,JA-7261483,2,$15000,0,Richard Quesnele,18,1,2023
+Grand Prize,2,JA-2023989,1,$104787.50,0,Kenneth Moore,31,1,2023
+Early Bird,3,F-9632307,2,$15000,0,Michael Derasp,15,2,2023
+Grand Prize,3,F-2153266,1,$106550,0,Rattan Negi,28,2,2023
+Early Bird,4,M-5995702,2,$15000,0,Darlene DeLavalle,15,3,2023
+Grand Prize,4,M-3752632,1,$93737.50,0,Richard Evans,31,3,2023
+Early Bird,5,A-8486431,2,$15000,0,Ray Dumais,19,4,2023
+Grand Prize,5,A-7294213,1,TBD,0,TBD,28,4,2023
+Early Bird,6,M-9785306,2,$15000,0,Shannon Pawelek,17,5,2023
