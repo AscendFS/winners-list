@@ -1,4 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,D-7541684,1,Jackpot,44335,Michael A.,1,12,2022
 Grand Prize,2,E-6090627,1,Jackpot,42955,Tanya B.,1,3,2023
-Grand Prize,3,F-6868665,1,Jackpot,32352,Susan A.,1,6,2023
+Grand Prize,3,F-6868665,1,Jackpot,32352.50,Susan A.,1,6,2023
