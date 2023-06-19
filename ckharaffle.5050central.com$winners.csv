@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,CKHAF-7036243,1,Jackpot,126840,TBD,13,7,2022
 Early Bird,2,CK-7101831,1,$1000,0,Janice Mardling,2,6,2023
+Early Bird,2,CK-1273654,1,Broil King Keg Charcoal Smoker/BBQ,0,TBD,16,6,2023
