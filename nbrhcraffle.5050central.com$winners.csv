@@ -1,25 +1,26 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,Y-9345686,2,$1000,0,Ann. Fitzsimmons,1,13,2023
-Early Bird,1,Y-5115063,2,$1000,0,Rita Lingner,1,20,2023
-Early Bird,1,Y-5502225,2,$1000,0,Lynn Cowden Lindsay,1,27,2023
-Early Bird,1,Y-1795872,2,$1000,0,Chantelle Bear,2,3,2023
-Early Bird,1,Y-4839981,2,$2000,0,Emma vanVliet,2,17,2023
+Early Bird,1,Y-9345686,2,$1000,0,Ann. Fitzsimmons,13,1,2023
+Early Bird,1,Y-5115063,2,$1000,0,Rita Lingner,20,1,2023
+Early Bird,1,Y-5502225,2,$1000,0,Lynn Cowden Lindsay,27,1,2023
+Early Bird,1,Y-1795872,2,$1000,0,Chantelle Bear,3,2,2023
+Early Bird,1,Y-4839981,2,$2000,0,Emma vanVliet,17,2,2023
 Grand Prize,1,Y-7410321,1,Jackpot,90115,Lynn Cowden Lindsay,28,2,2023
-Early Bird,2,Z-2369373,2,$500,0,Connie Russell,3,10,2023
-Early Bird,2,Z-1708972,2,$500,0,Elizabeth Barker,3,17,2023
-Early Bird,2,Z-7374794,2,$500,0,Lee Ann Lefebvre,3,17,2023
-Early Bird,2,Z-4064968,2,$500,0,Tyler Howell,3,17,2023
-Early Bird,2,Z-1917282,2,$500,0,Rachel Robert,3,24,2023
+Early Bird,2,Z-2369373,2,$500,0,Connie Russell,10,3,2023
+Early Bird,2,Z-1708972,2,$500,0,Elizabeth Barker,17,3,2023
+Early Bird,2,Z-7374794,2,$500,0,Lee Ann Lefebvre,17,3,2023
+Early Bird,2,Z-4064968,2,$500,0,Tyler Howell,17,3,2023
+Early Bird,2,Z-1917282,2,$500,0,Rachel Robert,24,3,2023
 Grand Prize,2,Z-1268046,1,Jackpot,59350,Anne Scott,31,3,2023
-Early Bird,3,AA-4723650,2,$500,0,Pamela Wilson,4,11,2023
-Early Bird,3,AA-5093234,2,$500,0,David Gabriel,4,12,2023
-Early Bird,3,AA-5479550,2,$500,0,Claire Byrne,4,13,2023
-Early Bird,3,AA-6990379,2,$500,0,Lise Rolsky,4,14,2023
-Early Bird,3,AA-5736687,2,$500,0,Mark Splane,4,21,2023
+Early Bird,3,AA-4723650,2,$500,0,Pamela Wilson,11,4,2023
+Early Bird,3,AA-5093234,2,$500,0,David Gabriel,12,4,2023
+Early Bird,3,AA-5479550,2,$500,0,Claire Byrne,13,4,2023
+Early Bird,3,AA-6990379,2,$500,0,Lise Rolsky,14,4,2023
+Early Bird,3,AA-5736687,2,$500,0,Mark Splane,21,4,2023
 Grand Prize,3,AA-7796153,1,Jackpot,53065,Claire Byrne,28,4,2023
-Early Bird,4,AB-2501778,2,$500,0,Mary Catherine Campbell,5,12,2023
-Early Bird,4,AB-7959318,2,$1000,0,Dean Decaire,5,19,2023
-Early Bird,4,AB-1180103,2,$500,0,Leo Coffin,5,26,2023
-Early Bird,4,AB-2627660,2,$500,0,Janet Fricker,6,2,2023
-Early Bird,4,AB-6813468,2,$500,0,TBD,6,9,2023
-Early Bird,4,AB-1261348,2,$1000,0,Melanie Harling,6,16,2023
+Early Bird,4,AB-2501778,2,$500,0,Mary Catherine Campbell,12,5,2023
+Early Bird,4,AB-7959318,2,$1000,0,Dean Decaire,19,5,2023
+Early Bird,4,AB-1180103,2,$500,0,Leo Coffin,26,5,2023
+Early Bird,4,AB-2627660,2,$500,0,Janet Fricker,2,6,2023
+Early Bird,4,AB-6813468,2,$500,0,TBD,9,6,2023
+Early Bird,4,AB-1261348,2,$1000,0,Melanie Harling,16,6,2023
+Early Bird,4,AB-3048994,2,$500,0,TBD,23,6,2023
