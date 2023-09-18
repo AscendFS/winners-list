@@ -1,2 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,LP-2182094,2,$500,0,TBD,15,9,2023
+Early Bird,1,LP-2182094,2,$500,0,Jerry & Joan Majers,15,9,2023
+Early Bird,1,LP-2853733,2,$500,0,Andrea Seiser,15,9,2023
