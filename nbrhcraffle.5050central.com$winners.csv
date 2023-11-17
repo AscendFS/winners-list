@@ -1,4 +1,4 @@
-EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+eEventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,Y-9345686,2,$1000,0,Ann. Fitzsimmons,13,1,2023
 Early Bird,1,Y-5115063,2,$1000,0,Rita Lingner,20,1,2023
 Early Bird,1,Y-5502225,2,$1000,0,Lynn Cowden Lindsay,27,1,2023
@@ -38,4 +38,5 @@ Early Bird,5,AD-7115384,2,$500,0,Claire and Gilles Legault ,29,9,2023
 Early Bird,5,AD-5067338,2,$1000,0,Lily Bouchet,6,10,2023
 Early Bird,5,AD-2931077,2,$500,0,Gerald Forsyth,13,10,2023
 Early Bird,5,AD-5576838,2,$500,0,Vivianne Ouellette,20,10,2023
-Grand Prize,6,AD-3729491,1,Jackpot,62240,Annette Cloutier,27,10,2023
+Grand Prize,5,AD-3729491,1,Jackpot,62240,Annette Cloutier,27,10,2023
+Early Bird,6,AE-7798853,2,$500,0,Lyne Kennedy,10,11,2023
