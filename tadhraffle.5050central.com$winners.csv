@@ -1,3 +1,16 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,A-47382915,2,$1000,0,John D.,8,7,2022
-Grand Prize,1,A-00984627,1,Jackpot,827373,Carles M.,30,7,2022
+Early Bird,1,AM-30931044,2,$2000,0,Joanne & Sibling,1,11,2023
+Early Bird,1,AM-24430505,2,$1000,0,Gabriel,8,11,2023
+Early Bird,1,AM-34111233,2,$1000,0,Linda,13,11,2023
+Early Bird,1,AM-65797927,2,$1000,0,Brigitte,14,11,2023
+Early Bird,1,AM-22686870,2,$1000,0,Mychal-anne,15,11,2023
+Early Bird,1,AM-3893228,2,$1000,0,Tyson,16,11,2023
+Early Bird,1,AM-46451201,2,$1000,0,Angele,17,11,2023
+Grand Prize,1,AM-72282956,1,Jackpot,131082,Nadine,24,11,2023
+Early Bird,2,AN-49432955,2,$3000,0,Helene,4,12,2023
+Early Bird,2,AN-67319187,2,$3000,0,William,11,12,2023
+Early Bird,2,AN-15810565,2,$25000,0,Gerald,14,12,2023
+Early Bird,2,AN-21892696,2,$3000,0,Lana,18,12,2023
+Early Bird,2,AN-70160562,2,2023 Cadillac XT5,0,Margaret,21,12,2023
+Early Bird,2,AN-35908013,2,$5000,0,Thomas,27,12,2023
+Grand Prize,2,AN-28889131,1,Jackpot,400978,Ida,29,12,2023
