@@ -1,5 +1,5 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,3746426,2,$2000,0,Maureen F. of Winnipeg,21,5,2024
-Early Bird,1,7005147,2,$2000,0,Annette O. of Winnipeg,21,5,2024
-Early Bird,2,6234682,2,$1000,0,Howard N. of Winnipeg,28,5,2024
-Early Bird,2,9060853,2,$1000,0,Michelle W. of Morden,28,5,2024
+Early Bird,1,3746426,2,"$2,000",0,Maureen F. of Winnipeg,21,5,2024
+Early Bird,1,7005147,2,"$2,000",0,Annette O. of Winnipeg,21,5,2024
+Early Bird,2,6234682,2,"$1,000",0,Howard N. of Winnipeg,28,5,2024
+Early Bird,2,9060853,2,"$1,000",0,Michelle W. of Morden,28,5,2024
