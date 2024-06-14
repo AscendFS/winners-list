@@ -1,1 +1,2 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,A-2718612,1,Jackpot,"$3,980",Nada M.,9,6,2024
