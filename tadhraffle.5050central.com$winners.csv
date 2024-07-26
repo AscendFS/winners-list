@@ -1,13 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,3,AO-31905957,2,$2500,0,Spencer,3,1,2024
-Early Bird,3,AO-67194655,2,$1000,0,Dan,8,1,2024
-Early Bird,3,AO-56214582,2,$1000,0,Marie,9,1,2024
-Early Bird,3,AO-16067782,2,$1000,0,Robert,10,1,2024
-Early Bird,3,AO-60560324,2,$1000,0,Ted,11,1,2024
-Early Bird,3,AO-46403707,2,$1000,0,Lori-Ann,12,1,2024
-Early Bird,3,AO-55196731,2,$1000,0,Mark,17,1,2024
-Early Bird,3,AO-37364540,2,$1000,0,Madeleine,22,1,2024
-Grand Prize,3,AO-25414478,1,Jackpot,145098,Cassie & Group,26,1,2024
 Early Bird,4,AP-38748544,2,$2500,0,Roberta,2,2,2024
 Early Bird,4,AP-69647331,2,$500,0,Jenn,9,2,2024
 Early Bird,4,AP-35957398,2,$500,0,Hal,9,2,2024
@@ -61,3 +52,4 @@ Early Bird,9,AU-56333421,2,$2500,0,Kari,8,7,2024
 Early Bird,9,AU-28766369,2,$2500,0,Laurette,15,7,2024
 Early Bird,9,AU-36346909,2,$20000,0,Charles,19,7,2024
 Early Bird,9,AU-18145701,2,$2500,0,Tim & Group,22,7,2024
+Grand Prize,9,AU-67836848,1,Jackpot,149662,TBD,26,7,2024
