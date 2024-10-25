@@ -1,11 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,6,AR-27395535,2,$2500,0,Kristie & Kerri,5,4,2024
-Early Bird,6,AR-15320883,2,$1000,0,Karen,10,4,2024
-Early Bird,6,AR-46257328,2,$1000,0,George,17,4,2024
-Early Bird,6,AR-39738894,2,$1000,0,Justin,24,4,2024
-Grand Prize,6,AR-63325058,1,Jackpot,118920,Matt,26,4,2024
-Early Bird,7,AS-11979290,2,$500,0,Candace & Matheson Home Hardware,29,4,2024
-Early Bird,7,AS-42259107,2,$500,0,Lucie,30,4,2024
 Early Bird,7,AS-26474297,2,$500,0,Thelma,1,5,2024
 Early Bird,7,AS-16165945,2,$500,0,Jules,2,5,2024
 Early Bird,7,AS-18281418,2,$500,0,Doris,3,5,2024
@@ -68,3 +61,4 @@ Early Bird,11,AX-19908656,2,$2000,0,Shelly,2,10,2024
 Early Bird,11,AX-49725711,2,$1000,0,Denise & Deborah,9,10,2024
 Early Bird,11,AX-19951004,2,$1000,0,Daryl,16,10,2024
 Early Bird,11,AX-15037904,2,$1000,0,Jovette,23,10,2024
+Grand Prize,11,AX-64002966,1,Jackpot,106282,TBD,25,10,2024
