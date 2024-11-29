@@ -1,26 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,7,AS-26474297,2,$500,0,Thelma,1,5,2024
-Early Bird,7,AS-16165945,2,$500,0,Jules,2,5,2024
-Early Bird,7,AS-18281418,2,$500,0,Doris,3,5,2024
-Early Bird,7,AS-14386284,2,$500,0,Ida,6,5,2024
-Early Bird,7,AS-35408034,2,$500,0,Huguette,7,5,2024
-Early Bird,7,AS-52073885,2,$500,0,Theresa,8,5,2024
-Early Bird,7,AS-12746670,2,$500,0,Raymond,9,5,2024
-Early Bird,7,AS-13709894,2,$500,0,Shirley & Barb,10,5,2024
-Early Bird,7,AS-73175314,2,$500,0,Carla & Lisa,13,5,2024
-Early Bird,7,AS-37406943,2,$500,0,Claude,14,5,2024
-Early Bird,7,AS-73033956,2,$500,0,Lucie,15,5,2024
-Early Bird,7,AS-49577963,2,$500,0,Andrea,16,5,2024
-Early Bird,7,AS-10393751,2,$500,0,Marie-Paule,17,5,2024
-Early Bird,7,AS-48699130,2,$500,0,Mike,21,5,2024
-Early Bird,7,AS-25175045,2,$500,0,Kevin,22,5,2024
-Early Bird,7,AS-54020179,2,$500,0,Frank,23,5,2024
-Early Bird,7,AS-27964616,2,$500,0,Andrew,24,5,2024
-Early Bird,7,AS-67620426,2,$500,0,John,27,5,2024
-Early Bird,7,AS-21526581,2,$500,0,Barbara,28,5,2024
-Early Bird,7,AS-24973906,2,$500,0,Helene,29,5,2024
-Early Bird,7,AS-23189984,2,$500,0,Alain,30,5,2024
-Grand Prize,7,AS-21656738,1,Jackpot,138525,Jason,31,5,2024
 Early Bird,8,AT-43973915,2,$2500,0,John,5,6,2024
 Early Bird,8,AT-76460476,2,$1000,0,Shannon,12,6,2024
 Early Bird,8,AT-37590801,2,$1000,0,Chantal,19,6,2024
@@ -70,3 +48,4 @@ Early Bird,12,AY-16826883,2,$1000,0,Aolani,20,11,2024
 Early Bird,12,AY-47932114,2,$1000,0,Steven,21,11,2024
 Early Bird,12,AY-79284073,2,$1000,0,Mark,22,11,2024
 Early Bird,12,AY-28717754,2,$1000,0,Kourtney,27,11,2024
+Grand Prize,12,AY-31855641,1,Jackpot,127052,TBD,29,11,2024
