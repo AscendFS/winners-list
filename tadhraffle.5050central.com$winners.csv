@@ -1,34 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,10,AV-33568680,2,$2500,0,Claire,2,8,2024
-Early Bird,10,AV-16951537,2,$500,0,Claude,7,8,2024
-Early Bird,10,AV-13673844,2,$500,0,Claire,7,8,2024
-Early Bird,10,AV-75046680,2,$1000,0,Alicia,14,8,2024
-Early Bird,10,AV-54644468,2,$1000,0,Susan,21,8,2024
-Grand Prize,9,AV-45666432,1,Jackpot,117355,Louise,30,8,2024
-Early Bird,10,AW-78861549,2,$444,0,Brian,3,9,2024
-Early Bird,10,AW-68637904,2,$444,0,Shannon,4,9,2024
-Early Bird,10,AW-69369874,2,$444,0,Leslie,5,9,2024
-Early Bird,10,AW-69939057,2,$444,0,Suzanne,6,9,2024
-Early Bird,10,AW-53729616,2,$444,0,Jennifer,9,9,2024
-Early Bird,10,AW-43719036,2,$444,0,Pamela,10,9,2024
-Early Bird,10,AW-24754911,2,$444,0,Melanie & Jason,11,9,2024
-Early Bird,10,AW-74088571,2,$444,0,Edith,12,9,2024
-Early Bird,10,AW-24539364,2,$444,0,Linda,13,9,2024
-Early Bird,10,AW-10233590,2,$444,0,Kevin,16,9,2024
-Early Bird,10,AW-58858324,2,$444,0,Johanne,17,9,2024
-Early Bird,10,AW-66781030,2,$444,0,Eric,18,9,2024
-Early Bird,10,AW-40940244,2,$444,0,Lise,19,9,2024
-Early Bird,10,AW-70140473,2,$444,0,Gerald,20,9,2024
-Early Bird,10,AW-62207599,2,$444,0,Tanya,23,9,2024
-Early Bird,10,AW-64325928,2,$444,0,Ken,24,9,2024
-Early Bird,10,AW-34563081,2,$444,0,Mehrsa,25,9,2024
-Early Bird,10,AW-60546744,2,$444,0,Ann / Gail / Paulette,26,9,2024
-Grand Prize,10,AW-67125663,1,Jackpot,116248,Marcel,27,9,2024
-Early Bird,11,AX-19908656,2,$2000,0,Shelly,2,10,2024
-Early Bird,11,AX-49725711,2,$1000,0,Denise & Deborah,9,10,2024
-Early Bird,11,AX-19951004,2,$1000,0,Daryl,16,10,2024
-Early Bird,11,AX-15037904,2,$1000,0,Jovette,23,10,2024
-Grand Prize,11,AX-64002966,1,Jackpot,106282,David,25,10,2024
 Early Bird,12,AY-19794970,2,$2000,0,James,6,11,2024
 Early Bird,12,AY-24163142,2,$1000,0,Michael,13,11,2024
 Early Bird,12,AY-39005608,2,$1000,0,Janet,18,11,2024
