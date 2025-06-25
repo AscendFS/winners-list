@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-47382915,2,$1000,0,John D.,8,7,2022
 Grand Prize,1,A-00984627,1,Jackpot,827373,Carles M.,30,7,2022
+Early Bird,1,B-987654321,2,$9000,0,Sasi E.,25,6,2025
