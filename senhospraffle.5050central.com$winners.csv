@@ -1,36 +1,37 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,B-1751578,2,$100 cash & $100 grocery card,0,Rejeanne Burton,3,2,2023
-Grand Prize,1,B-2546265,1,Grand Prize,12870,Louise Lefebvre,24,2,2023
+Grand Prize,1,B-2546265,1,Jackpot,12870,Louise Lefebvre,24,2,2023
 Early Bird,2,C-2338845,2,$200,0,Marie-Anne Chmelik,31,3,2023
-Grand Prize,2,C-2799445,1,Grand Prize,13142,Chantal Millette,21,4,2023
+Grand Prize,2,C-2799445,1,Jackpot,13142,Chantal Millette,21,4,2023
 Early Bird,2,D-1181411,2,$200,0,Kurt Staniek,26,5,2023
-Grand Prize,2,D-2799445,1,Grand Prize,11150,Don Brunet,16,6,2023
+Grand Prize,2,D-2799445,1,Jackpot,11150,Don Brunet,16,6,2023
 Early Bird,3,E-1307474,2,$200,0,Louise T.,21,7,2023
-Grand Prize,3,E-2426689,1,Grand Prize,9815,Josee Caron,11,8,2023
+Grand Prize,3,E-2426689,1,Jackpot,9815,Josee Caron,11,8,2023
 Early Bird,4,E-2372668,2,$200,0,George Ominoli,15,9,2023
-Grand Prize,4,F-1379673,1,Grand Prize,11202,Marie-Genevieve Valliere,6,10,2023
+Grand Prize,4,F-1379673,1,Jackpot,11202,Marie-Genevieve Valliere,6,10,2023
 Early Bird,5,G-2556470,2,$200,0,Raeann Gaudreault,3,11,2023
-Grand Prize,5,G-2842224,1,Grand Prize,9418,Yannick Lavoie,24,11,2023
+Grand Prize,5,G-2842224,1,Jackpot,9418,Yannick Lavoie,24,11,2023
 Early Bird,6,A-2011052,2,$100,0,Jean-Francois Dufour,8,12,2023
 Early Bird,6,A-1356202,2,$250,0,Steve Sanford,15,12,2023
 Early Bird,6,A-6289745,2,$500,0,Michel Ethier,24,12,2023
-Grand Prize,6,A-2138614,1,Grand Prize,16595,Richard Allard,31,12,2023
-Grand Prize,7,B-5606519,1,Grand Prize,17755,Alain Brunet,29,2,2024
+Grand Prize,6,A-2138614,1,Jackpot,16595,Richard Allard,31,12,2023
+Grand Prize,7,B-5606519,1,Jackpot,17755,Alain Brunet,29,2,2024
 Early Bird,8,C-3122105,2,$250,0,Nicole St-Amour,1,4,2024
 Grand Prize,8,C-6618424,1,Grand Prize,17365,Dave Laurin,25,4,2024
 Early Bird,9,D-5955260,2,$250,0,Jose Berube,3,6,2024
-Grand Prize,9,D-2915833,1,Grand Prize,18392,Kelly Hoff,27,6,2024
-Grand Prize,9,E-7948834,1,Grand Prize,20860,TBD,29,8,2024
+Grand Prize,9,D-2915833,1,Jackpot,18392,Kelly Hoff,27,6,2024
+Grand Prize,9,E-7948834,1,Jackpot,20860,TBD,29,8,2024
 Early Bird,10,F-5985388,2,$250,0,Kevin Ouimette,1,10,2024
-Grand Prize,10,F-6880786,1,Grand Prize,17610,Sophie Roy,31,10,2024
+Grand Prize,10,F-6880786,1,Jackpot,17610,Sophie Roy,31,10,2024
 Early Bird,11,A-9844470,2,Yeti Cooler,0,Johanne Nadeau,19,11,2024
 Early Bird,11,A-6316709,2,$500,0,Samantha Turgeon,26,11,2024
 Early Bird,11,A-4418838,2,$500,0,Pierrette Mignault,10,12,2024
 Early Bird,11,A-6419499,2,$500,0,Flo Madore,17,12,2024
 Early Bird,11,A-9649165,2,$1000,0,Joanne McGee,24,12,2024
-Grand Prize,11,A-6913094,1,Grand Prize,32710,Debbie Blais,30,12,2024
+Grand Prize,11,A-6913094,1,Jackpot,32710,Debbie Blais,30,12,2024
 Early Bird,12,B-7128594,2,$500,0,Jeffrey Arnott,4,2,2025
-Grand Prize,12,B-6299483,1,Grand Prize,15825,Linda Miller,27,2,2025
+Grand Prize,12,B-6299483,1,Jackpot,15825,Linda Miller,27,2,2025
 Early Bird,12,C-4243077,2,$500,0,Kim DeGrace,1,4,2025
-Grand Prize,12,C-1003132,1,Grand Prize,15335,Lynne Tremblay,30,4,2025
+Grand Prize,12,C-1003132,1,Jackpot,15335,Lynne Tremblay,30,4,2025
 Early Bird,13,D-5029145,2,$500,0,Linda Boisjoli,2,6,2025
+Grand Prize,13,D-9170669,1,Jackpot,13515,Krysta Sigouin,30,6,2025
