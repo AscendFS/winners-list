@@ -1,2 +1,2 @@
-EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-June 2025,1,A-12682232,5,"$1,000",0,Wasif K.,2,7,2025
+DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTitle,PrizeAmount
+2,7,2025,June 2025,A-12682232,Wasif K.,Langley,5,"$1,000",0
