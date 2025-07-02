@@ -1,0 +1,5 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,LP-3845976,1,"$11,125",0,,28,9,2022
+Grand Prize,1,LP-2002458,1,"$6,005",0,,29,9,2023
+Grand Prize,1,LP-21461072,1,"$7,785",0,,8,1,2024
+Grand Prize,1,LP-25899779,1,"$9,040",0,,7,1,2025
