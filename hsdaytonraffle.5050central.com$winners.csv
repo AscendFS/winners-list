@@ -1,4 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Grand Prize,1,CR-3470194,1,"2024 Chevrolet Trax RS",0,Lori Ornsby,19,10,2024
-Grand Prize,1,CR-1757538,1,"2023 Chevrolet Trailblazer",0,Meriden Thomas,16,12,2023
 Grand Prize,1,CR-7081995,1,"2022 Mitsubishi Outlander",0,Kimberly Group,17,12,2022
+Grand Prize,1,CR-1757538,1,"2023 Chevrolet Trailblazer",0,Meriden Thomas,16,12,2023
+Grand Prize,1,CR-3470194,1,"2024 Chevrolet Trax RS",0,Lori Ornsby,19,10,2024
