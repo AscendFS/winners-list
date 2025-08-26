@@ -1,43 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,12,AY-19794970,2,$2000,0,James,6,11,2024
-Early Bird,12,AY-24163142,2,$1000,0,Michael,13,11,2024
-Early Bird,12,AY-39005608,2,$1000,0,Janet,18,11,2024
-Early Bird,12,AY-75558839,2,$1000,0,Mary Ann,19,11,2024
-Early Bird,12,AY-16826883,2,$1000,0,Aolani,20,11,2024
-Early Bird,12,AY-47932114,2,$1000,0,Steven,21,11,2024
-Early Bird,12,AY-79284073,2,$1000,0,Mark,22,11,2024
-Early Bird,12,AY-28717754,2,$1000,0,Kourtney,27,11,2024
-Grand Prize,12,AY-31855641,1,Jackpot,127052,Brigitte,29,11,2024
-Early Bird,13,AZ-66312032,2,$3000,0,Kathy,2,12,2024
-Early Bird,13,AZ-20123417,2,$3000,0,Veronica,9,12,2024
-Early Bird,13,AZ-35094689,2,$1000,0,Logan,10,12,2024
-Early Bird,13,AZ-75373376,2,$1000,0,Liam,11,12,2024
-Early Bird,13,AZ-30849461,2,$1000,0,Debra,12,12,2024
-Early Bird,13,AZ-54602157,2,$1000,0,Darleene,13,12,2024
-Early Bird,13,AZ-52714277,2,$3000,0,Justin,16,12,2024
-Early Bird,13,AZ-37915596,2,$1000,0,Janet,17,12,2024
-Early Bird,13,AZ-40246851,2,$1000,0,Timothy & Group,18,12,2024
-Early Bird,13,AZ-79948007,2,$1000,0,Ginette & Family,19,12,2024
-Early Bird,13,AZ-67724905,2,$1000,0,Denise,20,12,2024
-Early Bird,13,AZ-42778301,2,$3000,0,Marc,23,12,2024
-Early Bird,13,AZ-17637447,2,$20000,0,Wayne,24,12,2024
-Early Bird,13,AZ-58285916,2,2024 Toyota GR86 Premium,0,Yvon,27,12,2024
-Grand Prize,13,AZ-24112798,1,Jackpot,308290,Jacques,31,12,2024
-Early Bird,14,BA-27669875,2,$2000,0,Donna,3,1,2025
-Early Bird,14,BA-63812969,2,$1000,0,Mike,8,1,2025
-Early Bird,14,BA-37444205,2,$1000,0,Kendra & Foundation Group,13,1,2025
-Early Bird,14,BA-59549306,2,$1000,0,Brenda,14,1,2025
-Early Bird,14,BA-19531168,2,$1000,0,Denis,15,1,2025
-Early Bird,14,BA-28494362,2,$1000,0,Marc,16,1,2025
-Early Bird,14,BA-28958673,2,$1000,0,Dennis,17,1,2025
-Early Bird,14,BA-38004470,2,$1000,0,Marilyn,22,1,2025
-Grand Prize,14,BA-67307078,1,Jackpot,123242,Pierre,31,1,2025
-Early Bird,15,BB-45491452,2,$2000,0,Aline & Medical Group,5,2,2025
-Early Bird,15,BB-31184141,2,$500,0,Arnel,10,2,2025
-Early Bird,15,BB-65628827,2,$500,0,Terry,14,2,2025
-Early Bird,15,BB-53772823,2,$500,0,David,21,2,2025
-Early Bird,15,BB-42017919,2,$1000,0,Sage,26,2,2025
-Grand Prize,15,BB-45454264,1,Jackpot,113785,Judith,28,2,2025
 Early Bird,16,BC-19895803,2,$2000,0,Manon,5,3,2025
 Early Bird,16,BC-60840536,2,$1000,0,Diane,12,3,2025
 Early Bird,16,BC-31595938,2,$1000,0,Rachel,19,3,2025
