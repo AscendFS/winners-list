@@ -1,2 +1,2 @@
-EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,B-22293019,2,$5000,0,Jacky M.,10,9,2025
+DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTitle,PrizeAmount
+10,9,2025,September 2025 Unity Sweepstakes,B-22293019,Jacky M.,TBD,5,Early Bird,$5000
