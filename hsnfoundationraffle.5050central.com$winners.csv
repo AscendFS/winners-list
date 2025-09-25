@@ -1,49 +1,49 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,6,BC-85534000,1,Jackpot,980910,Lisa P.,3,1,2025
-Early Bird,7,BD-18954827,2,"$10,000",0,Carla M.,8,1,2025
-Early Bird,7,BD-23626739,2,"$10,000",0,Philip C.,15,1,2025
-Early Bird,7,BD-20615766,2,"$5,000",0,Pauline L.,22,1,2025
-Early Bird,7,BD-28811973,2,"$5,000",0,Dan G.,29,1,2025
+Early Bird,7,BD-18954827,5,"$10,000",0,Carla M.,8,1,2025
+Early Bird,7,BD-23626739,5,"$10,000",0,Philip C.,15,1,2025
+Early Bird,7,BD-20615766,5,"$5,000",0,Pauline L.,22,1,2025
+Early Bird,7,BD-28811973,5,"$5,000",0,Dan G.,29,1,2025
 Grand Prize,7,BD-19295062,1,Jackpot,413040,Nieek J.,31,1,2025
-Early Bird,8,BE-65097630,2,"$10,000",0,Carmen O.,7,2,2025
-Early Bird,8,BE-87173443,2,"$5,000",0,Lyne J.,14,2,2025
-Early Bird,8,BE-92350014,2,"$10,000",0,Terry J.,21,2,2025
+Early Bird,8,BE-65097630,5,"$10,000",0,Carmen O.,7,2,2025
+Early Bird,8,BE-87173443,5,"$5,000",0,Lyne J.,14,2,2025
+Early Bird,8,BE-92350014,5,"$10,000",0,Terry J.,21,2,2025
 Grand Prize,8,BE-23529212,1,Jackpot,379828,Hilda L.,28,2,2025
-Early Bird,9,BF-77243662,2,"$10,000",0,Reginald N.,7,3,2025
-Early Bird,9,BF-32035372,2,"$5,000",0,Barb S.,14,3,2025
-Early Bird,9,BF-57804405,2,"$10,000",0,Zoe B.,21,3,2025
+Early Bird,9,BF-77243662,5,"$10,000",0,Reginald N.,7,3,2025
+Early Bird,9,BF-32035372,5,"$5,000",0,Barb S.,14,3,2025
+Early Bird,9,BF-57804405,5,"$10,000",0,Zoe B.,21,3,2025
 Grand Prize,9,BF-81750302,1,Jackpot,403300,Ray & Terry S.,28,3,2025
-Early Bird,10,BG-82638293,2,"$2,000",0,Anthony G.,31,3,2025
-Early Bird,10,BG-87845403,2,"$2,000",0,Mary M.,1,4,2025
-Early Bird,10,BG-26661000,2,"$2,000",0,Eric B.,2,4,2025
-Early Bird,10,BG-29654114,2,"$2,000",0,Tracy V.,3,4,2025
-Early Bird,10,BG-32854849,2,"$10,000",0,Chris R.,4,4,2025
-Early Bird,10,BG-23494315,2,"$2,000",0,Mario M.,5,4,2025
-Early Bird,10,BG-85919557,2,"$5,000",0,Leah C.,11,4,2025
-Early Bird,10,BG-10951820,2,"$10,000",0,Monique C.,18,4,2025
+Early Bird,10,BG-82638293,5,"$2,000",0,Anthony G.,31,3,2025
+Early Bird,10,BG-87845403,5,"$2,000",0,Mary M.,1,4,2025
+Early Bird,10,BG-26661000,5,"$2,000",0,Eric B.,2,4,2025
+Early Bird,10,BG-29654114,5,"$2,000",0,Tracy V.,3,4,2025
+Early Bird,10,BG-32854849,5,"$10,000",0,Chris R.,4,4,2025
+Early Bird,10,BG-23494315,5,"$2,000",0,Mario M.,5,4,2025
+Early Bird,10,BG-85919557,5,"$5,000",0,Leah C.,11,4,2025
+Early Bird,10,BG-10951820,5,"$10,000",0,Monique C.,18,4,2025
 Grand Prize,10,BG-29462638,1,Jackpot,434430,Denis K.,25,4,2025
-Early Bird,11,BH-94041347,2,"$3,000",0,Brian C.,30,4,2025
-Early Bird,11,BH-90204774,2,"$3,000",0,James G.,2,5,2025
-Early Bird,11,BH-81784674,2,"$3,000",0,Joanne C.,7,5,2025
-Early Bird,11,BH-13646128,2,"$3,000",0,Lisa W.,9,5,2025
-Early Bird,11,BH-26396470,2,"$3,000",0,Peggy A.,14,5,2025
-Early Bird,11,BH-95292085,2,"$3,000",0,Judy F.,16,5,2025
-Early Bird,11,BH-36322041,2,"$3,000",0,Yvon T.,21,5,2025
-Early Bird,11,BH-47819962,2,"$3,000",0,Naomi D.,23,5,2025
-Early Bird,11,BH-17321035,2,"$30,000",0,Nathalie P.,28,5,2025
+Early Bird,11,BH-94041347,5,"$3,000",0,Brian C.,30,4,2025
+Early Bird,11,BH-90204774,5,"$3,000",0,James G.,2,5,2025
+Early Bird,11,BH-81784674,5,"$3,000",0,Joanne C.,7,5,2025
+Early Bird,11,BH-13646128,5,"$3,000",0,Lisa W.,9,5,2025
+Early Bird,11,BH-26396470,5,"$3,000",0,Peggy A.,14,5,2025
+Early Bird,11,BH-95292085,5,"$3,000",0,Judy F.,16,5,2025
+Early Bird,11,BH-36322041,5,"$3,000",0,Yvon T.,21,5,2025
+Early Bird,11,BH-47819962,5,"$3,000",0,Naomi D.,23,5,2025
+Early Bird,11,BH-17321035,5,"$30,000",0,Nathalie P.,28,5,2025
 Grand Prize,11,BH-75946215,1,Jackpot,548718,Corinne R.,30,5,2025
-Early Bird,12,BI-17814360,2,"$5,000",0,Norm G.,5,6,2025
-Early Bird,12,BI-58552352,2,"$5,000",0,Denis D.,12,6,2025
-Early Bird,12,BI-59828894,2,"$5,000",0,Ronald D.,19,6,2025
-Early Bird,12,BI-49024460,2,"$25,000",0,John H.,24,6,2025
+Early Bird,12,BI-17814360,5,"$5,000",0,Norm G.,5,6,2025
+Early Bird,12,BI-58552352,5,"$5,000",0,Denis D.,12,6,2025
+Early Bird,12,BI-59828894,5,"$5,000",0,Ronald D.,19,6,2025
+Early Bird,12,BI-49024460,5,"$25,000",0,John H.,24,6,2025
 Grand Prize,12,BI-10247984,1,Jackpot,460732,Diane F.,27,6,2025
-Early Bird,12,BJ-21103922,2,"$8,000",0,Bruno R.,4,7,2025
-Early Bird,13,BJ-42076181,2,"$8,000",0,Solange M.,11,7,2025
-Early Bird,13,BJ-45531101,2,"$8,000",0,Dawn & Paul B.,18,7,2025
-Early Bird,13,BJ-30445178,2,"Free Groceries for a Year",0,Debbie B.,25,7,2025
+Early Bird,12,BJ-21103922,5,"$8,000",0,Bruno R.,4,7,2025
+Early Bird,13,BJ-42076181,5,"$8,000",0,Solange M.,11,7,2025
+Early Bird,13,BJ-45531101,5,"$8,000",0,Dawn & Paul B.,18,7,2025
+Early Bird,13,BJ-30445178,5,"Free Groceries for a Year",0,Debbie B.,25,7,2025
 Grand Prize,13,BJ-50547223,1,Jackpot,465830,Brenda V.,1,8,2025
-Early Bird,14,BK-47077516,2,"$10,000",0,Daniel F.,15,8,2025
-Early Bird,14,BK-64159068,2,"$16,000",0,Jeanette A.,22,8,2025
+Early Bird,14,BK-47077516,5,"$10,000",0,Daniel F.,15,8,2025
+Early Bird,14,BK-64159068,5,"$16,000",0,Jeanette A.,22,8,2025
 Grand Prize,14,BK-70322276,1,Jackpot,432700,Joel L. of Geraldton and Group of 11,29,8,2025
 Early Bird,15,BL-92633885,5,"$10,000",0,Fran T.,5,9,2025
 Early Bird,15,BL-77051091,5,"$10,000",0,To Be Announced,12,9,2025
