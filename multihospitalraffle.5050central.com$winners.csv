@@ -1,3 +1,4 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,2,F-57500101,2,"$1,000",0,Roxanne P. from South Windsor,7,8,2025
 Early Bird,2,F-57251645,2,"$1,000",0,Hubert R. from Englehart,7,8,2025
 Early Bird,2,F-55599010,2,"$1,000",0,Pamela M. from Windsor,7,8,2025
