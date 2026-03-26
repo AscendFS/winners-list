@@ -1,101 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,2,F-57500101,"$1,000",0,Roxanne P. from South Windsor,7,8,2025
-Early Bird,2,F-57251645,"$1,000",0,Hubert R. from Englehart,7,8,2025
-Early Bird,2,F-55599010,"$1,000",0,Pamela M. from Windsor,7,8,2025
-Early Bird,2,F-46108529,"$1,000",0,Ron B. from Garson,7,8,2025
-Early Bird,2,F-52464824,"$1,000",0,Christine V. from Kitchener,7,8,2025
-Early Bird,2,F-52366353,"$1,000",0,Ian B. from Guelph,7,8,2025
-Early Bird,2,F-29767101,"$1,000",0,Anika C. from Guelph,7,8,2025
-Early Bird,2,F-27250877,"$1,000",0,Ellen M. from Englehart,7,8,2025
-Early Bird,2,F-26670380,"$1,000",0,Stacy B. from Canfield,7,8,2025
-Early Bird,2,F-11392210,"$1,000",0,Tom N. from Lincoln,7,8,2025
-Early Bird,2,F-44226827,"$5,000",0,Frank S. from Windsor,7,8,2025
-Early Bird,2,F-44047339,"$5,000",0,Roland C. from Sturgeon Falls,7,8,2025
-Early Bird,2,F-22101644,"$10,000",0,Mary J L. from Hanover,7,8,2025
-Early Bird,2,F-14027087,"$1,000",0,Terry B. from Sturgeon Falls,14,8,2025
-Early Bird,2,F-15207933,"$1,000",0,Kimberly C. from Ennismore,14,8,2025
-Early Bird,2,F-23089992,"$1,000",0,David C. from Hamilton,14,8,2025
-Early Bird,2,F-28168027,"$1,000",0,Michael M. from Eganville,14,8,2025
-Early Bird,2,F-29164125,"$1,000",0,Elisabeth G. from Niagara-on-the-Lake,14,8,2025
-Early Bird,2,F-31307941,"$1,000",0,George K. from St. Thomas,14,8,2025
-Early Bird,2,F-31744850,"$1,000",0,Laurence R. from Windsor,14,8,2025
-Early Bird,2,F-33214276,"$1,000",0,Jennifer T. from Whitby,14,8,2025
-Early Bird,2,F-40373562,"$1,000",0,Kathy K. from Newmarket,14,8,2025
-Early Bird,2,F-38443232,"$1,000",0,Melanie M. from Arthur,14,8,2025
-Early Bird,2,F-39264643,"$5,000",0,Katelyn S. from New Liskeard,14,8,2025
-Early Bird,2,F-57438556,"$5,000",0,Lori M. from Georgetown,14,8,2025
-Early Bird,2,F-13270361,"$1,000",0,Margaret L. from Maidstone,21,8,2025
-Early Bird,2,F-32786697,"$1,000",0,Omar B. from Mississauga,21,8,2025
-Early Bird,2,F-33459163,"$1,000",0,Daniel C. from Hamilton,21,8,2025
-Early Bird,2,F-38144661,"$1,000",0,Clenia M. from Mississauga,21,8,2025
-Early Bird,2,F-44427165,"$1,000",0,Paulo M B. from Cambridge,21,8,2025
-Early Bird,2,F-32620642,"$5,000",0,George S. from Sarnia,21,8,2025
-Early Bird,2,F-51701248,"$5,000",0,Connie Z. from Innisfil,21,8,2025
-Early Bird,2,F-56414916,"$5,000",0,Louise B. from Oxford Mills,21,8,2025
-Grand Prize,2,F-10045830,"$9,160.30",0,Jeannine R. from Windsor,28,8,2025
-Grand Prize,2,F-22147404,"$9,160.30",0,Michael W. from Midhurst,28,8,2025
-Grand Prize,2,F-25600000,"$9,160.30",0,Barbara B. from St. Catharines,28,8,2025
-Grand Prize,2,F-26131050,"$9,160.30",0,Darlene S. from Peterborough,28,8,2025
-Grand Prize,2,F-29352919,"$9,160.30",0,Faryal R. from Mississauga,28,8,2025
-Grand Prize,2,F-44303483,"$9,160.30",0,William W. from Collingwood,28,8,2025
-Grand Prize,2,F-44801255,"$9,160.30",0,Amy B. from Arthur,28,8,2025
-Grand Prize,2,F-45889478,"$9,160.30",0,Rosalind H. from Kitchener,28,8,2025
-Grand Prize,2,F-46591460,"$9,160.30",0,Bruce L. from Toronto,28,8,2025
-Grand Prize,2,F-46602650,"$9,160.30",0,Andy V. from Bracebridge,28,8,2025
-Grand Prize,2,F-50322478,"$45,801.50",0,M. Jarvie from Waterloo,28,8,2025
-Grand Prize,2,F-56345916,"$45,801.50",0,Claude P. from Oro Station,28,8,2025
-Grand Prize,2,F-26951233,"$274,809",0,Russell B. from Thunder Bay,28,8,2025
-Early Bird,1,G-13409704,"$1,000",0,Bibi M. from Milton,4,9,2025
-Early Bird,1,G-35087801,"$1,000",0,JoAnne H. from Hamilton,4,9,2025
-Early Bird,1,G-36587678,"$1,000",0,Kenton P. from Sault Ste. Marie,4,9,2025
-Early Bird,1,G-49249796,"$1,000",0,Maurice S. from Sault Ste. Marie,4,9,2025
-Early Bird,1,G-49705864,"$1,000",0,Louise M. from Woodstock,4,9,2025
-Early Bird,1,G-57902701,"$1,000",0,Cheryl M. from Gore Bay,4,9,2025
-Early Bird,1,G-49771232,"$1,000",0,Lois G. from Waterloo,4,9,2025
-Early Bird,1,G-59060321,"$1,000",0,Sheri B. from Sarnia,4,9,2025
-Early Bird,1,G-57878840,"$1,000",0,Paul L. from Windsor,4,9,2025
-Early Bird,1,G-34527460,"$1,000",0,Maureen F. from Cambridge,4,9,2025
-Early Bird,1,G-42643953,"$5,000",0,Caron M. from Pickering,4,9,2025
-Early Bird,1,G-19352502,"$5,000",0,Gail S. from Angus,4,9,2025
-Early Bird,2,G-41788424,"$1,000",0,Tammy S. from Cambridge,11,9,2025
-Early Bird,2,G-55145720,"$1,000",0,Laurie E. from Kitchener,11,9,2025
-Early Bird,2,G-42992293,"$1,000",0,Robert P. from Cambridge,11,9,2025
-Early Bird,2,G-37606132,"$1,000",0,Ilana S. from Georgetown,11,9,2025
-Early Bird,2,G-35991304,"$1,000",0,Pascal T. from Val Rita,11,9,2025
-Early Bird,2,G-19491706,"$1,000",0,Merylin W. from Burlington,11,9,2025
-Early Bird,2,G-14753921,"$1,000",0,Mark H. from Deep River,11,9,2025
-Early Bird,2,G-13389157,"$1,000",0,Kevin K. from Greater Sudbury,11,9,2025
-Early Bird,2,G-12909952,"$1,000",0,Annette F. from Lasalle,11,9,2025
-Early Bird,2,G-12443953,"$1,000",0,Brenda N. from Richmond Hill,11,9,2025
-Early Bird,2,G-44281584,"$5,000",0,Mary M. from Perth,11,9,2025
-Early Bird,2,G-52769566,"$5,000",0,Nora G. from Espanola,11,9,2025
-Early Bird,2,G-12148828,"$1,000",0,Madison Avenue Confectionary in Greater Sudbury,18,9,2025
-Early Bird,2,G-15294915,"$1,000",0,Pam B. from Thunder Bay,18,9,2025
-Early Bird,2,G-16010612,"$1,000",0,Austin R. from Midland,18,9,2025
-Early Bird,2,G-22606043,"$1,000",0,Karlyne A. from Wawa,18,9,2025
-Early Bird,2,G-27647643,"$1,000",0,Linda C. from Tilbury,18,9,2025
-Early Bird,2,G-37411409,"$1,000",0,James M. from Cochrane,18,9,2025
-Early Bird,2,G-38142549,"$1,000",0,Elyse R. from Fergus,18,9,2025
-Early Bird,2,G-48860858,"$1,000",0,Anne P. from Sudbury,18,9,2025
-Early Bird,2,G-52476156,"$1,000",0,Theresa C. from Cobourg,18,9,2025
-Early Bird,2,G-17869440,"$1,000",0,David S. from Guelph,18,9,2025
-Early Bird,2,G-13260447,"$5,000",0,Steven U. from Kanata,18,9,2025
-Early Bird,2,G-13728757,"$5,000",0,Gordon S. from Timmins,18,9,2025
-Early Bird,2,G-46164702,"$5,000",0,Melody Y. from Beaverton,18,9,2025
-Early Bird,2,G-30541111,"EB Bonus - Groceries for a Year or $8,000 Cash",0,Petra T. from Orangeville,25,9,2025
-Grand Prize,1,G-51498930,"$9,054.80",0,Lizzette D. from Cambridge,25,9,2025
-Grand Prize,1,G-50973986,"$9,054.80",0,Catherine M. from Oakville,25,9,2025
-Grand Prize,1,G-51464488,"$9,054.80",0,Michael H. from Brantford,25,9,2025
-Grand Prize,1,G-48652073,"$9,054.80",0,Steve B. from Ingersoll,25,9,2025
-Grand Prize,1,G-50602651,"$9,054.80",0,Sharon B. from Sunderland,25,9,2025
-Grand Prize,1,G-49896488,"$9,054.80",0,Diane B. from Chelmsford,25,9,2025
-Grand Prize,1,G-41765171,"$9,054.80",0,Salvatore C. from North York,25,9,2025
-Grand Prize,1,G-34043084,"$9,054.80",0,John W. from Cambridge,25,9,2025
-Grand Prize,1,G-25140300,"$9,054.80",0,Tony H. from Wallaceburg,25,9,2025
-Grand Prize,1,G-22233161,"$9,054.80",0,Pasqualino F. from Mississauga,25,9,2025
-Grand Prize,1,G-36775575,"$45,274",0,Tammy G. from Kawartha Lake,25,9,2025
-Grand Prize,1,G-36981570,"$45,274",0,Apiphany G. from Clarence Creek,25,9,2025
-Grand Prize,1,G-52050174,"$271,644",0,Lynn D. from Hamilton,25,9,2025
 Early Bird,1,H-21020327,"$50,000",0,Michael G. from Windsor,2,10,2025
 Early Bird,1,H-49025188,"$10,000",0,Apiphany G. from Clarence Creek,9,10,2025
 Early Bird,1,H-21328934,"$15,000",0,Joan and Donald C. from St. Thomas,16,10,2025
@@ -222,3 +125,16 @@ Grand Prize,1,L-34511344,"$300,000",0,Tammy G. from Guelph,26,2,2026
 Early Bird,1,M-48664583,"$50,000",0,Gabriel G. from Toronto,5,3,2026
 Early Bird,1,M-49389185,"$5,000",0,Lia B. from LaSalle,12,3,2026
 Early Bird,1,M-32261893,"$5,000",0,Jack F. from Thunder Bay,12,3,2026
+Grand Prize,1,M-12623254,"$300,000",0,Diane D. from Atikokan,26,3,2026
+Grand Prize,1,M-52045363,"$50,000",0,Karen D. from Arnprior,26,3,2026
+Grand Prize,1,M-57184841,"$50,000",0,Susana S. from Burlington,26,3,2026
+Grand Prize,1,M-55205022,"$10,000",0,S&R Variety in Sturgeon Falls C-store winner,26,3,2026
+Grand Prize,1,M-10775354,"$10,000",0,Larry D. from New Liskeard,26,3,2026
+Grand Prize,1,M-11698380,"$10,000",0,Ray M. from New Hamburg,26,3,2026
+Grand Prize,1,M-20535415,"$10,000",0,Beverly B. from Kitchener,26,3,2026
+Grand Prize,1,M-24018314,"$10,000",0,Bharat & Cintra P. from Brampton,26,3,2026
+Grand Prize,1,M-29144728,"$10,000",0,Valerie V. from Windsor,26,3,2026
+Grand Prize,1,M-32387978,"$10,000",0,Laurie P. from Espanola,26,3,2026
+Grand Prize,1,M-33334641,"$10,000",0,Sean D. from Mississauga,26,3,2026
+Grand Prize,1,M-54231540,"$10,000",0,Madeleine M. from Kitchener,26,3,2026
+Grand Prize,1,M-55786498,"$10,000",0,Richard J. from New Liskeard,26,3,2026
