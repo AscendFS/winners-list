@@ -1,2 +1,2 @@
-EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Grand Prize,1,A-11060846,1,"The Great Golden Ticket",0,Iris C.,1,4,2026
+DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,PrizeTypeId,PrizeTitle,PrizeAmount
+1,4,2026,The Golden Ticket Raffle,A-11060846,Iris C.,1,"The Great Golden Ticket",0
