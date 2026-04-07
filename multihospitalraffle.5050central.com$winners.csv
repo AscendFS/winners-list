@@ -1,8 +1,8 @@
 DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeID,PrizeTitle,PrizeAmount
-2,10,2025,Split The Pot October 2025,H-21020327,Michael G.,Windsor,1,"$50,000",0
-9,10,2025,Split The Pot October 2025,H-49025188,Apiphany G.,Clarence Creek,1,"$10,000",0
-16,10,2025,Split The Pot October 2025,H-21328934,Joan and Donald C.,St. Thomas,1,"$15,000",0
-23,10,2025,Split The Pot October 2025,H-30534593,Jesse W.,Haliburton,1,"$25,000",0
+2,10,2025,Split The Pot October 2025,H-21020327,Michael G.,Windsor,5,"$50,000",0
+9,10,2025,Split The Pot October 2025,H-49025188,Apiphany G.,Clarence Creek,5,"$10,000",0
+16,10,2025,Split The Pot October 2025,H-21328934,Joan and Donald C.,St. Thomas,5,"$15,000",0
+23,10,2025,Split The Pot October 2025,H-30534593,Jesse W.,Haliburton,5,"$25,000",0
 30,10,2025,Split The Pot October 2025,H-57260777,Thomas P.,Baysville,1,"$10,004.80",0
 30,10,2025,Split The Pot October 2025,H-56025216,Bill M.,North Bay,1,"$10,004.80",0
 30,10,2025,Split The Pot October 2025,H-53405588,Michelle L.,Woodstock,1,"$10,004.80",0
@@ -16,23 +16,23 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeID,PrizeTi
 30,10,2025,Split The Pot October 2025,H-55436688,Holly N.,Waubaushene,1,"$50,024",0
 30,10,2025,Split The Pot October 2025,H-31164219,Yvonne G.,Maple,1,"$50,024",0
 30,10,2025,Split The Pot October 2025,H-17265343,Ricky D.,Minden,1,"$300,144",0
-6,11,2025,Split The Pot November 2025,I-18292653,Debbie S.,Minden,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-30514431,Cheri B.,LaSalle,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-41462082,Susan W.,Chatham,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-47568103,Judy L.,St. Thomas,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-47743421,Nancy & Marlo T.,Sault Ste. Marie,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-50273433,Thérèse S.,North Bay,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-59336763,Marla V.,Hamilton,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-59727654,Leomar D.,Aurora,2,"$5,000",0
-6,11,2025,Split The Pot November 2025,I-27741240,Walter K.,Migisi Sahgaigan,2,"$10,000",0
-6,11,2025,Split The Pot November 2025,I-59470480,Janice H.,Red Lake,2,"$10,000",0
-13,11,2025,Split The Pot November 2025,I-11606113,David V.,Blenheim,2,"$1,000",0
-13,11,2025,Split The Pot November 2025,I-39053686,Cheryl D.,Rockwood,2,"$1,000",0
-13,11,2025,Split The Pot November 2025,I-41552916,Cathy M.,Pickering,2,"$1,000",0
-13,11,2025,Split The Pot November 2025,I-46347885,Wayne B.,Thunder Bay,2,"$1,000",0
-13,11,2025,Split The Pot November 2025,I-55442059,Apiphany G.,Clarence Creek,2,"$1,000",0
-20,11,2025,Split The Pot November 2025,I-31633956,Tom F.,Barrie,2,"$2,500",0
-20,11,2025,Split The Pot November 2025,I-17390171,Heather V.,Thunder Bay,2,"$2,500",0
+6,11,2025,Split The Pot November 2025,I-18292653,Debbie S.,Minden,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-30514431,Cheri B.,LaSalle,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-41462082,Susan W.,Chatham,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-47568103,Judy L.,St. Thomas,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-47743421,Nancy & Marlo T.,Sault Ste. Marie,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-50273433,Thérèse S.,North Bay,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-59336763,Marla V.,Hamilton,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-59727654,Leomar D.,Aurora,5,"$5,000",0
+6,11,2025,Split The Pot November 2025,I-27741240,Walter K.,Migisi Sahgaigan,5,"$10,000",0
+6,11,2025,Split The Pot November 2025,I-59470480,Janice H.,Red Lake,5,"$10,000",0
+13,11,2025,Split The Pot November 2025,I-11606113,David V.,Blenheim,5,"$1,000",0
+13,11,2025,Split The Pot November 2025,I-39053686,Cheryl D.,Rockwood,5,"$1,000",0
+13,11,2025,Split The Pot November 2025,I-41552916,Cathy M.,Pickering,5,"$1,000",0
+13,11,2025,Split The Pot November 2025,I-46347885,Wayne B.,Thunder Bay,5,"$1,000",0
+13,11,2025,Split The Pot November 2025,I-55442059,Apiphany G.,Clarence Creek,5,"$1,000",0
+20,11,2025,Split The Pot November 2025,I-31633956,Tom F.,Barrie,5,"$2,500",0
+20,11,2025,Split The Pot November 2025,I-17390171,Heather V.,Thunder Bay,5,"$2,500",0
 27,11,2025,Split The Pot November 2025,I-48395812,TBD,TBD,1,"$10,777.30",0
 27,11,2025,Split The Pot November 2025,I-11630993,Corrine D.,Fergus,1,"$10,777.30",0
 27,11,2025,Split The Pot November 2025,I-16757874,Lynda J.,Kitchener,1,"$10,777.30",0
@@ -46,49 +46,50 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeID,PrizeTi
 27,11,2025,Split The Pot November 2025,I-25297506,Lisa L.,Markham,1,"$53,886.50",0
 27,11,2025,Split The Pot November 2025,I-33637748,Barbara F.,Marten River,1,"$53,886.50",0
 27,11,2025,Split The Pot November 2025,I-43536379,Michelle P.,Kitchener,1,"$323,319",0
-4,12,2025,Split The Pot December 2025,J-10886679,Denise D.,Acton,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-12704347,Arthur S.,Toronto,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-17845132,Wayne G.,Timmins,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-28836134,Darlene M.,Burlington,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-24156947,Gail V.,Techumseh,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-29459153,Bruce I.,Sault Ste. Marie,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-39524618,Kimberley D.,Englehart,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-47215421,Jeff D.,Emsdale,1,"$5,000",0
-4,12,2025,Split The Pot December 2025,J-47001318,Richard B.,Sault Ste. Marie,1,"$10,000",0
-11,12,2025,Split The Pot December 2025,J-22381031,Josh C.,Charlton,1,"$1,000",0
-11,12,2025,Split The Pot December 2025,J-32368756,Theresa D.,Toronto,1,"$1,000",0
-11,12,2025,Split The Pot December 2025,J-42760367,Gary T.,LaSalle,1,"$1,000",0
-11,12,2025,Split The Pot December 2025,J-45564330,Karen M.,Warren,1,"$1,000",0
-11,12,2025,Split The Pot December 2025,J-50836243,Mike G.,Waubaushene,1,"$1,000",0
-18,12,2025,Split The Pot December 2025,J-27835414,Tina G.,East York,1,"$2,500",0
-18,12,2025,Split The Pot December 2025,J-21516838,Xiaoni W.,Toronto,1,"$2,500",0
-1,1,2026,Split The Pot January 2026,J-37598447,Karen B.,Bracebridge,1,"$5,000",0
-1,1,2026,Split The Pot January 2026,J-46039242,Joanna P.,Hamilton,1,"$5,000",0
-1,1,2026,Split The Pot January 2026,J-47640059,Christopher S.,Mississauga,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-47473436,Tina F.,Oakville,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-44928016,Apiphany G.,Clarence Creek,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-36626976,Garnette C.,Ohsweken,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-29943218,Hannelore A.,Amherstview,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-27309129,Fay S.,Niagara Falls,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-26326633,Ruby L.,Brantford,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-20483397,Luigi T.,Woodbridge,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-16688107,Arvind P.,Mississauga,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-11014304,Richard C.,Greater Sudbury,1,"$12,936.60",0
-1,1,2026,Split The Pot January 2026,J-25317268,Margaret P.,Chatham,1,"$64,683",0
-1,1,2026,Split The Pot January 2026,J-45721494,Brenda C.,K & A VARIETY & RESTAURANT & GAS BAR Winner,1,"$64,683",0
-1,1,2026,Split The Pot January 2026,J-12265896,Balvinder S.,Nobleton,1,"$388,098",0
-8,1,2026,Split The Pot January 2026,K-29837213,Andrew G.,Burlington,1,"$5,000",0
-8,1,2026,Split The Pot January 2026,K-58447079,Joanne N.,Toronto,1,"$10,000",0
-8,1,2026,Split The Pot January 2026,K-27303567,Richard H.,Wasaga Beach,1,"$10,000",0
-15,1,2026,Split The Pot January 2026,K-39455282,Chris B.,Cambridge,1,"$1,000",0
-15,1,2026,Split The Pot January 2026,K-31840516,Rick L.,Sudbury,1,"$1,000",0
-15,1,2026,Split The Pot January 2026,K-29508854,Linda B.,Stoney Creek,1,"$1,000",0
-15,1,2026,Split The Pot January 2026,K-27223248,Ray K.,New Hamburg,1,"$1,000",0
-15,1,2026,Split The Pot January 2026,K-18925514,Zaia S.,Hamilton,1,"$1,000",0
-22,1,2026,Split The Pot January 2026,K-46581176,Ken O.,Dunnville,1,"$5,000",0
-22,1,2026,Split The Pot January 2026,K-33298597,Jennifer T.,Leamington,1,"$5,000",0
-22,1,2026,Split The Pot January 2026,K-38661863,Serge F.,Oshawa,1,"$5,000",0
-22,1,2026,Split The Pot January 2026,K-26492238,Bernard B.,Azilda,1,"$5,000",0
+
+4,12,2025,Split The Pot December 2025,J-10886679,Denise D.,Acton,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-12704347,Arthur S.,Toronto,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-17845132,Wayne G.,Timmins,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-28836134,Darlene M.,Burlington,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-24156947,Gail V.,Techumseh,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-29459153,Bruce I.,Sault Ste. Marie,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-39524618,Kimberley D.,Englehart,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-47215421,Jeff D.,Emsdale,5,"$5,000",0
+4,12,2025,Split The Pot December 2025,J-47001318,Richard B.,Sault Ste. Marie,5,"$10,000",0
+11,12,2025,Split The Pot December 2025,J-22381031,Josh C.,Charlton,5,"$1,000",0
+11,12,2025,Split The Pot December 2025,J-32368756,Theresa D.,Toronto,5,"$1,000",0
+11,12,2025,Split The Pot December 2025,J-42760367,Gary T.,LaSalle,5,"$1,000",0
+11,12,2025,Split The Pot December 2025,J-45564330,Karen M.,Warren,5,"$1,000",0
+11,12,2025,Split The Pot December 2025,J-50836243,Mike G.,Waubaushene,5,"$1,000",0
+18,12,2025,Split The Pot December 2025,J-27835414,Tina G.,East York,5,"$2,500",0
+18,12,2025,Split The Pot December 2025,J-21516838,Xiaoni W.,Toronto,5,"$2,500",0
+1,1,2026,Split The Pot December 2025,J-37598447,Karen B.,Bracebridge,5,"$5,000",0
+1,1,2026,Split The Pot December 2025,J-46039242,Joanna P.,Hamilton,5,"$5,000",0
+1,1,2026,Split The Pot December 2025,J-47640059,Christopher S.,Mississauga,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-47473436,Tina F.,Oakville,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-44928016,Apiphany G.,Clarence Creek,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-36626976,Garnette C.,Ohsweken,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-29943218,Hannelore A.,Amherstview,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-27309129,Fay S.,Niagara Falls,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-26326633,Ruby L.,Brantford,1,"$12,936.60",0
+1,1,2026,Split The Pot December 20256,J-20483397,Luigi T.,Woodbridge,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-16688107,Arvind P.,Mississauga,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-11014304,Richard C.,Greater Sudbury,1,"$12,936.60",0
+1,1,2026,Split The Pot December 2025,J-25317268,Margaret P.,Chatham,1,"$64,683",0
+1,1,2026,Split The Pot December 2025,J-45721494,Brenda C.,K & A VARIETY & RESTAURANT & GAS BAR Winner,1,"$64,683",0
+1,1,2026,Split The Pot December 2025,J-12265896,Balvinder S.,Nobleton,1,"$388,098",0
+8,1,2026,Split The Pot January 2026,K-29837213,Andrew G.,Burlington,5,"$5,000",0
+8,1,2026,Split The Pot January 2026,K-58447079,Joanne N.,Toronto,5,"$10,000",0
+8,1,2026,Split The Pot January 2026,K-27303567,Richard H.,Wasaga Beach,5,"$10,000",0
+15,1,2026,Split The Pot January 2026,K-39455282,Chris B.,Cambridge,5,"$1,000",0
+15,1,2026,Split The Pot January 2026,K-31840516,Rick L.,Sudbury,5,"$1,000",0
+15,1,2026,Split The Pot January 2026,K-29508854,Linda B.,Stoney Creek,5,"$1,000",0
+15,1,2026,Split The Pot January 2026,K-27223248,Ray K.,New Hamburg,5,"$1,000",0
+15,1,2026,Split The Pot January 2026,K-18925514,Zaia S.,Hamilton,5,"$1,000",0
+22,1,2026,Split The Pot January 2026,K-46581176,Ken O.,Dunnville,5,"$5,000",0
+22,1,2026,Split The Pot January 2026,K-33298597,Jennifer T.,Leamington,5,"$5,000",0
+22,1,2026,Split The Pot January 2026,K-38661863,Serge F.,Oshawa,5,"$5,000",0
+22,1,2026,Split The Pot January 2026,K-26492238,Bernard B.,Azilda,5,"$5,000",0
 29,1,2026,Split The Pot January 2026,K-52571793,Apiphany G.,Clarence Creek,1,"$10,000",0
 29,1,2026,Split The Pot January 2026,K-51231441,Shelley V.,Guelph,1,"$10,000",0
 29,1,2026,Split The Pot January 2026,K-50391772,Diane W.,Port Sydney,1,"$10,000",0
@@ -102,12 +103,13 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeID,PrizeTi
 29,1,2026,Split The Pot January 2026,K-47940451,Connie C.,Sarnia,1,"$50,000",0
 29,1,2026,Split The Pot January 2026,K-37349305,Ben Van A.,Rutherglen,1,"$50,000",0
 29,1,2026,Split The Pot January 2026,K-32364888,Nick Del M.,Burlington,1,"$300,000",0
-5,2,2026,Split The Pot February 2026,L-50243572,Wayne C.,Grand Bend,1,"$5,000",0
-5,2,2026,Split The Pot February 2026,L-45031523,David B.,North Bay,1,"$5,000",0
-5,2,2026,Split The Pot February 2026,L-58735807,Janice H.,Kitchener,1,"$10,000",0
-5,2,2026,Split The Pot February 2026,L-53174656,Lynn R.,Marathon,1,"$10,000",0
-12,2,2026,Split The Pot February 2026,L-49718893,Louis L.,Markham,1,"$5,000",0
-12,2,2026,Split The Pot February 2026,L-40127260,Brenda R.,Kirkland Lake,1,"$5,000",0
+
+5,2,2026,Split The Pot February 2026,L-50243572,Wayne C.,Grand Bend,5,"$5,000",0
+5,2,2026,Split The Pot February 2026,L-45031523,David B.,North Bay,5,"$5,000",0
+5,2,2026,Split The Pot February 2026,L-58735807,Janice H.,Kitchener,5,"$10,000",0
+5,2,2026,Split The Pot February 2026,L-53174656,Lynn R.,Marathon,5,"$10,000",0
+12,2,2026,Split The Pot February 2026,L-49718893,Louis L.,Markham,5,"$5,000",0
+12,2,2026,Split The Pot February 2026,L-40127260,Brenda R.,Kirkland Lake,5,"$5,000",0
 19,2,2026,Split The Pot February 2026,L-57887126,Cindy H.,Markdale,1,"$10,000",0
 26,2,2026,Split The Pot February 2026,L-52970964,Barbara C.,Freelton,1,"$10,000",0
 26,2,2026,Split The Pot February 2026,L-51308466,Jenny R.,Singhampton,1,"$10,000",0
@@ -122,9 +124,9 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeID,PrizeTi
 26,2,2026,Split The Pot February 2026,L-51344233,June S.,Thessalon,1,"$50,000",0
 26,2,2026,Split The Pot February 2026,L-35534635,Moya J.,Brampton,1,"$50,000",0
 26,2,2026,Split The Pot February 2026,L-34511344,Tammy G.,Guelph,1,"$300,000",0
-5,3,2026,Split The Pot March 2026,M-48664583,Gabriel G.,Toronto,1,"$50,000",0
-12,3,2026,Split The Pot March 2026,M-49389185,Lia B.,LaSalle,1,"$5,000",0
-12,3,2026,Split The Pot March 2026,M-32261893,Jack F.,Thunder Bay,1,"$5,000",0
+5,3,2026,Split The Pot March 2026,M-48664583,Gabriel G.,Toronto,5,"$50,000",0
+12,3,2026,Split The Pot March 2026,M-49389185,Lia B.,LaSalle,5,"$5,000",0
+12,3,2026,Split The Pot March 2026,M-32261893,Jack F.,Thunder Bay,5,"$5,000",0
 26,3,2026,Split The Pot March 2026,M-12623254,Diane D.,Atikokan,1,"$300,000",0
 26,3,2026,Split The Pot March 2026,M-52045363,Karen D.,Arnprior,1,"$50,000",0
 26,3,2026,Split The Pot March 2026,M-57184841,Susana S.,Burlington,1,"$50,000",0
