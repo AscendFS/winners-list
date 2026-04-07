@@ -1,191 +1,152 @@
 DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTitle,PrizeAmount
-7,8,2025,,A-74430911,Arden T.,,2,"$1,000.00",0
-7,8,2025,,B-44423656,Ginette F.,,2,"$1,000.00",0
-7,8,2025,,A-47663929,Clem A.,,2,"$10,000.00",0
-14,8,2025,,B-22366036,Wyatt E.,,2,$500.00,0
-14,8,2025,,A-16781113,Trudy W.,,2,$500.00,0
-14,8,2025,,A-67215202,Lee-Anne C.,,2,"$1,000.00",0
-21,8,2025,,A-49346276,Julie N.,,2,"$1,000.00",0
-21,8,2025,,A-36796819,Scott B.,,2,"$1,000.00",0
-21,8,2025,,A-56213463,Catherine G.,,2,"$5,000.00",0
-28,8,2025,,A-88154390,Ron M.,,1,"$2,006.30",0
-28,8,2025,,A-86401132,James H.,,1,"$2,006.30",0
-28,8,2025,,A-82997866,Gloria V.,,1,"$2,006.30",0
-28,8,2025,,A-74674858,Mavis M.,,1,"$2,006.30",0
-28,8,2025,,A-53465900,Kenneth F.,,1,"$2,006.30",0
-28,8,2025,,A-41026439,Lori M.,,1,"$2,006.30",0
-28,8,2025,,A-13495302,Rick B.,,1,"$2,006.30",0
-28,8,2025,,A-39811955,Debra H.,,1,"$2,006.30",0
-28,8,2025,,A-29300283,Karen N.,,1,"$2,006.30",0
-28,8,2025,,A-18410848,Cristina M.,,1,"$2,006.30",0
-28,8,2025,,B-59560674,Elaine C.,,1,"$10,031.50",0
-28,8,2025,,A-69938074,April M.,,1,"$10,031.50",0
-28,8,2025,,A-28312589,Monika F.,,1,"$60,189.00",0
-4,9,2025,,B-79928517,John K.,,2,Gas for a Year,0
-11,9,2025,,A-82724000,Dolor R.,,2,"$1,000.00",0
-11,9,2025,,A-45149521,Chanel S.,,2,"$1,000.00",0
-18,9,2025,,A-50919013,Robert P.,,2,Gas for a Year,0
-25,9,2025,,A-90308751,Bernie W.,,1,"$2,093.90",0
-25,9,2025,,C-8279729,Kirby M.,,1,"$2,093.90",0
-25,9,2025,,A-62029656,David N.,,1,"$2,093.90",0
-25,9,2025,,A-55985176,Carol Z.,,1,"$2,093.90",0
-25,9,2025,,A-49390841,Mattieu L.,,1,"$2,093.90",0
-25,9,2025,,A-48444626,Sheila W.,,1,"$2,093.90",0
-25,9,2025,,A-34311948,Sherry O.,,1,"$2,093.90",0
-25,9,2025,,B-29779912,Darlene C.,,1,"$2,093.90",0
-25,9,2025,,A-16378230,Gary M.,,1,"$2,093.90",0
-25,9,2025,,B-10817542,Aletta S.,,1,"$2,093.90",0
-25,9,2025,,A-73667721,Sherrill Y.,,1,"$10,469.50",0
-25,9,2025,,C-20747125,Maureen L.,,1,"$10,469.50",0
-25,9,2025,,A-90604327,Candace S.,,1,"$62,817.00",0
-2,10,2025,,C-95597297,Thuy N.,,2,$100.00,0
-2,10,2025,,A-86019595,Lindsey W.,,2,$100.00,0
-2,10,2025,,A-84255096,Sharon H.,,2,$100.00,0
-2,10,2025,,C-71079127,Alice B.,,2,$100.00,0
-2,10,2025,,B-67220749,Wendy M.,,2,$100.00,0
-2,10,2025,,A-55045237,Christian I.,,2,$100.00,0
-2,10,2025,,A-54814142,Brian L.,,2,$100.00,0
-2,10,2025,,A-50780310,Deborah N.,,2,$100.00,0
-2,10,2025,,A-17211517,Michael F.,,2,$100.00,0
-2,10,2025,,A-10698956,Glenn D.,,2,$100.00,0
-2,10,2025,,B-94237894,Rachelle B.,,2,$3000.00,0
-9,10,2025,,B-93273892,Laurie P.,,2,$100.00,0
-9,10,2025,,B-92994608,Marjorie L.,,2,$100.00,0
-9,10,2025,,B-90053664,Marlene M.,,2,$100.00,0
-9,10,2025,,B-76688392,Peter B.,,2,$100.00,0
-9,10,2025,,B-71989751,Melvin S.,,2,$100.00,0
-9,10,2025,,B-61142167,Christine B.,,2,$100.00,0
-9,10,2025,,B-41631647,Linda J.,,2,$100.00,0
-9,10,2025,,B-25686525,Paula B.,,2,$100.00,0
-9,10,2025,,B-12692047,Kieth Lance G.,,2,$100.00,0
-9,10,2025,,B-11961362,Lorne H.,,2,$100.00,0
-9,10,2025,,B-21368464,Randall A.,,2,$1000.00,0
-16,10,2025,,A-95014772,Randal M.,,1,$100.00,0
-16,10,2025,,A-76761076,Charlotte P.,,2,$100.00,0
-16,10,2025,,A-70982186,Daralyn S.,,3,$100.00,0
-16,10,2025,,B-64407766,Marina P.,,4,$100.00,0
-16,10,2025,,A-56594207,Anita S.,,5,$100.00,0
-16,10,2025,,A-48872521,Robert H.,,6,$100.00,0
-16,10,2025,,A-42465748,Jeff & Mandy S.,,7,$100.00,0
-16,10,2025,,A-35975086,Wes S.,,8,$100.00,0
-16,10,2025,,A-33631468,Curtis S.,,9,$100.00,0
-16,10,2025,,B-24120102,Amanda D.,,10,$100.00,0
-16,10,2025,,A-39202343,Marjorie L.,,11,$1000.00,0
-23,10,2025,,A-98602024,Ivan C.,,1,$100.00,0
-23,10,2025,,A-84153890,Robert B.,,2,$100.00,0
-23,10,2025,,B-77019648,Donna C.,,3,$100.00,0
-23,10,2025,,A-82337280,Mike S.,,4,$100.00,0
-23,10,2025,,A-74249886,Marilyn S.,,5,$100.00,0
-23,10,2025,,B-44806605,Jinell Cindy D.,,6,$100.00,0
-23,10,2025,,A-41778121,Christopher K.,,7,$100.00,0
-23,10,2025,,A-27810260,Darrell Y.,,8,$100.00,0
-23,10,2025,,A-24651435,Patricia T.,,9,$100.00,0
-23,10,2025,,C-17735765,Sidney J.,,10,$100.00,0
-23,10,2025,,A-61960908,Gladys B.,,11,$1000.00,0
-30,10,2025,,C-97412892,Nathalie K.,,1,"$2,263.80",0
-30,10,2025,,A-85271094,Sandra K.,,1,"$2,263.80",0
-30,10,2025,,A-84301951,Carrie Y.,,1,"$2,263.80",0
-30,10,2025,,B-64572045,Jo-Ann G.,,1,"$2,263.80",0
-30,10,2025,,A-63742646,John D.,,1,"$2,263.80",0
-30,10,2025,,A-63120664,Elma S.,,1,"$2,263.80",0
-30,10,2025,,A-56669039,Courtney M.,,1,"$2,263.80",0
-30,10,2025,,B-44185186,Wayne H.,,1,"$2,263.80",0
-30,10,2025,,A-26365105,Terrence H.,,1,"$2,263.80",0
-30,10,2025,,B-16990377,Trina M.,,1,"$2,263.80",0
-30,10,2025,,A-75177243,Anne J.,,1,"$11,319.00",0
-30,10,2025,,A-51992872,Elaine D.,,1,"$11,319.00",0
-30,10,2025,,A-13342110,Fredrick B.,,1,"$67,914.00",0
-6,11,2025,,A-58910000,Walter Z.,,2,"$5,000.00",0
-13,11,2025,,A-92515106,Kevin Y.,,2,"$3,000.00",0
-20,11,2025,,A-54211405,Reno Z.,,2,"$2,000.00",0
-27,11,2025,,A-91477804,Robert T.,,2,"$2,000.00",0
-27,11,2025,,A-88127690,Dean T.,,2,"$2,000.00",0
-27,11,2025,,A-77760035,Darin B.,,2,"$2,000.00",0
-27,11,2025,,A-69076895,Wayne D.,,2,"$2,000.00",0
-27,11,2025,,B-65596038,Kathleen T.,,2,"$2,000.00",0
-27,11,2025,,A-61104656,Allan S.,,2,"$2,000.00",0
-27,11,2025,,A-41001359,Roy F.,,2,"$2,000.00",0
-27,11,2025,,A-30271244,Kelly S.,,2,"$2,000.00",0
-27,11,2025,,A-23448141,Gladys B.,,2,"$2,000.00",0
-27,11,2025,,C-16858915,Jodi T.,,2,"$2,000.00",0
-27,11,2025,,A-80546917,Dale B.,,2,"$13,000.00",0
-27,11,2025,,A-66795868,Lindsay B.,,2,"$13,000.00",0
-27,11,2025,,A-17369696,Marivic M.,,1,"$79,224.00",0
-4,12,2025,,A-33981191,Carolyn M.,,2,"$5,000.00",0
-11,12,2025,,A-80689695,James K.,,2,"$3,000.00",0
-18,12,2025,,A-76683467,Donald C.,,2,"$2,000.00",0
-1,1,2026,,A-80310774,Sandra K.,,2,"$2,000.00",0
-1,1,2026,,A-80169159,Agnes P.,,1,"$2,778.30",0
-1,1,2026,,A-70788051,Michelle J.,,1,"$2,778.30",0
-1,1,2026,,A-64942952,Barbara J.,,1,"$2,778.30",0
-1,1,2026,,B-63481432,Wendy H.,,1,"$2,778.30",0
-1,1,2026,,A-28445039,Paul P.,,1,"$2,778.30",0
-1,1,2026,,B-60560044,Linda H.,,1,"$2,778.30",0
-1,1,2026,,A-57134319,Clem A.,,1,"$2,778.30",0
-1,1,2026,,B-22946345,Kara-Lyn F.,,1,"$2,778.30",0
-1,1,2026,,A-16800694,Brenda B.,,1,"$2,778.30",0
-1,1,2026,,A-14846121,Cindy R.,,1,"$2,778.30",0
-1,1,2026,,A-67013613,Patrick G.,,1,"$13,891.50",0
-1,1,2026,,A-97156163,Guenter H.,,1,"$13,891.50",0
-1,1,2026,,B-43734032,Maria C.,,1,"$83,349.00",0
-8,1,2026,,C-90002409,Tracy S.,,2,"$2,500.00",0
-8,1,2026,,A-83579518,Lovepreet M.,,2,"$2,500.00",0
-15,1,2026,,A-89018485,Monika E.,,2,"$2,000.00",0
-22,1,2026,,B-48365521,Carolyn M.,,2,"$3,000.00",0
-29,1,2026,,A-90514670,Joanne S.,Brooks’s,1,"$2,018.90",0
-29,1,2026,,A-87843460,Sandra S.,Sturgeon County,1,"$2,018.90",0
-29,1,2026,,A-78929488,Arden B.,Calgary,1,"$2,018.90",0
-29,1,2026,,A-72683942,Ian S.,Sturgeon County,1,"$2,018.90",0
-29,1,2026,,B-63924562,Maureen L.,Daysland,1,"$2,018.90",0
-29,1,2026,,A-42493422,Gary G.,Medicine Hat,1,"$2,018.90",0
-29,1,2026,,B-37467799,Christine B.,Grande Prairie,1,"$2,018.90",0
-29,1,2026,,B-25208735,William S.,Edmonton,1,"$2,018.90",0
-29,1,2026,,A-23003316,Debbie P.,Lloydminster,1,"$2,018.90",0
-29,1,2026,,A-20820467,Ian S.,Sturgeon County,1,"$2,018.90",0
-29,1,2026,,B-80961098,Bradley B.,Edmonton,1,"$10,094.50",0
-29,1,2026,,A-10525420,Paul P.,Bellevue,1,"$10,094.50",0
-29,1,2026,,B-43256673,Lorna B.,Airdrie,1,"$60,567.00",0
-5,2,2026,,A-85659215,Daryl C.,Smoky Lake,2,"$6,000.00",0
-12,2,2026,,A-47457192,Fredrick B.,Calgary,2,"$2,000.00",0
-19,2,2026,,A-81202865,Arden T.,Cranford,2,"$1,000.00",0
-19,2,2026,,A-16696483,Kevin B.,Calgary,2,"$1,000.00",0
-26,2,2026,,95494320,Marilynn H.,Edmonton,1,"$1,893.40",0
-26,2,2026,,98523855,Fedec D.,Fort McMurray,1,"$1,893.40",0
-26,2,2026,,97360552,Jaswinder M.,Beaumont,1,"$1,893.40",0
-26,2,2026,,84474386,Eric E.,Sylvan Lake,1,"$1,893.40",0
-26,2,2026,,80501249,Michelle P.,Calgary,1,"$1,893.40",0
-26,2,2026,,56111186,Darla M.,Grande Prairie,1,"$1,893.40",0
-26,2,2026,,36878900,Dale B.,Edmonton,1,"$1,893.40",0
-26,2,2026,,29804420,Douglas E.,High River,1,"$1,893.40",0
-26,2,2026,,13073909,Nairn N.,Okotoks,1,"$1,893.40",0
-26,2,2026,,27421817,Jennie M.,Edmonton,1,"$1,893.40",0
-26,2,2026,,38931082,Keli F.,Edmonton,1,"$9,467.00",0
-26,2,2026,,82021109,Eleanor G.,Cypress County,1,"$9,467.00",0
-26,2,2026,,78824316,Guenter H.,Sherwood Park,1,"$56,802.00",0
-5,3,2026,,B-90376263,Rabin M.,Edmonton,2,"$15,000.00",0
-12,3,2026,,A-46546160,Chelsea N.,Wetaskiwin,2,"$1,000.00",0
-19,3,2026,,A-51553872,Katherine H.,Edmonton,2,"$2,000.00",0
-19,3,2026,,A-44075332,Ron M.,Sherwood Park,2,"$2,000.00",0
-26,3,2026,,A-90499769,Marshall C.,Calgary,1,"$51,651.00",0
-26,3,2026,,A-90199179,Sylvia M.,High River,1,"$8,608.50",0
-26,3,2026,,A-29574007,Yaowarase R.,Sedgewick,1,"$8,608.50",0
-26,3,2026,,A-92923841,Ron M.,Sherwood Park,1,"$1,721.70",0
-26,3,2026,,C-89708828,Sandi A.,Calgary,1,"$1,721.70",0
-26,3,2026,,C-84317654,Diane Y.,Westlock,1,"$1,721.70",0
-26,3,2026,,B-79080467,Harold P.,Halkirk,1,"$1,721.70",0
-26,3,2026,,A-75142744,Bev F.,Edmonton,1,"$1,721.70",0
-26,3,2026,,B-52197187,Theo H.,Edmonton,1,"$1,721.70",0
-26,3,2026,,C-69860541,Paula P.,Sherwood Park,1,"$1,721.70",0
-26,3,2026,,A-49199407,Brad M.,Taber,1,"$1,721.70",0
-26,3,2026,,A-39659701,Candace S.,Bittern Lake,1,"$1,721.70",0
-26,3,2026,,A-21404683,Susan D.,Fisiview,1,"$1,721.70",0
-2,4,2026,,A-95350165,George W.,Calgary,2,"$1,000.00",0
-2,4,2026,,A-88186888,Derek R.,Leduc,2,"$1,000.00",0
-2,4,2026,,A-23625868,Lily L.,Calgary,2,"$1,000.00",0
-2,4,2026,,B-78451043,Jennifer N.,Bassano,2,"$1,000.00",0
-2,4,2026,,A-48981420,Jennifer P.,Carstairs,2,"$1,000.00",0
-2,4,2026,,A-24327838,Jennifer W.,Grand Prairie,2,"$1,000.00",0
-2,4,2026,,A-15148461,Zaneta K.,Grand Prairie,2,"$1,000.00",0
-2,4,2026,,A-12845609,Shirley S.,High River,2,"$1,000.00",0
-2,4,2026,,A-96895375,Michael B.,Edmonton,2,"$1,000.00",0
-2,4,2026,,A-21015909,Gary M.,Claresholm,2,"$1,000.00",0
+2,10,2025,Split The Pot October 2025,C-95597297,Thuy N.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,A-86019595,Lindsey W.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,A-84255096,Sharon H.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,C-71079127,Alice B.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,B-67220749,Wendy M.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,A-55045237,Christian I.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,A-54814142,Brian L.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,A-50780310,Deborah N.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,A-17211517,Michael F.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,A-10698956,Glenn D.,,2,$100.00,0
+2,10,2025,Split The Pot October 2025,B-94237894,Rachelle B.,,2,$3000.00,0
+9,10,2025,Split The Pot October 2025,B-93273892,Laurie P.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-92994608,Marjorie L.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-90053664,Marlene M.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-76688392,Peter B.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-71989751,Melvin S.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-61142167,Christine B.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-41631647,Linda J.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-25686525,Paula B.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-12692047,Kieth Lance G.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-11961362,Lorne H.,,2,$100.00,0
+9,10,2025,Split The Pot October 2025,B-21368464,Randall A.,,2,$1000.00,0
+16,10,2025,Split The Pot October 2025,A-95014772,Randal M.,,1,$100.00,0
+16,10,2025,Split The Pot October 2025,A-76761076,Charlotte P.,,2,$100.00,0
+16,10,2025,Split The Pot October 2025,A-70982186,Daralyn S.,,3,$100.00,0
+16,10,2025,Split The Pot October 2025,B-64407766,Marina P.,,4,$100.00,0
+16,10,2025,Split The Pot October 2025,A-56594207,Anita S.,,5,$100.00,0
+16,10,2025,Split The Pot October 2025,A-48872521,Robert H.,,6,$100.00,0
+16,10,2025,Split The Pot October 2025,A-42465748,Jeff & Mandy S.,,7,$100.00,0
+16,10,2025,Split The Pot October 2025,A-35975086,Wes S.,,8,$100.00,0
+16,10,2025,Split The Pot October 2025,A-33631468,Curtis S.,,9,$100.00,0
+16,10,2025,Split The Pot October 2025,B-24120102,Amanda D.,,10,$100.00,0
+16,10,2025,Split The Pot October 2025,A-39202343,Marjorie L.,,11,$1000.00,0
+23,10,2025,Split The Pot October 2025,A-98602024,Ivan C.,,1,$100.00,0
+23,10,2025,Split The Pot October 2025,A-84153890,Robert B.,,2,$100.00,0
+23,10,2025,Split The Pot October 2025,B-77019648,Donna C.,,3,$100.00,0
+23,10,2025,Split The Pot October 2025,A-82337280,Mike S.,,4,$100.00,0
+23,10,2025,Split The Pot October 2025,A-74249886,Marilyn S.,,5,$100.00,0
+23,10,2025,Split The Pot October 2025,B-44806605,Jinell Cindy D.,,6,$100.00,0
+23,10,2025,Split The Pot October 2025,A-41778121,Christopher K.,,7,$100.00,0
+23,10,2025,Split The Pot October 2025,A-27810260,Darrell Y.,,8,$100.00,0
+23,10,2025,Split The Pot October 2025,A-24651435,Patricia T.,,9,$100.00,0
+23,10,2025,Split The Pot October 2025,C-17735765,Sidney J.,,10,$100.00,0
+23,10,2025,Split The Pot October 2025,A-61960908,Gladys B.,,11,$1000.00,0
+30,10,2025,Split The Pot October 2025,C-97412892,Nathalie K.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,A-85271094,Sandra K.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,A-84301951,Carrie Y.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,B-64572045,Jo-Ann G.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,A-63742646,John D.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,A-63120664,Elma S.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,A-56669039,Courtney M.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,B-44185186,Wayne H.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,A-26365105,Terrence H.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,B-16990377,Trina M.,,1,"$2,263.80",0
+30,10,2025,Split The Pot October 2025,A-75177243,Anne J.,,1,"$11,319.00",0
+30,10,2025,Split The Pot October 2025,A-51992872,Elaine D.,,1,"$11,319.00",0
+30,10,2025,Split The Pot October 2025,A-13342110,Fredrick B.,,1,"$67,914.00",0
+6,11,2025,Split The Pot November 2025,A-58910000,Walter Z.,,2,"$5,000.00",0
+13,11,2025,Split The Pot November 2025,A-92515106,Kevin Y.,,2,"$3,000.00",0
+20,11,2025,Split The Pot November 2025,A-54211405,Reno Z.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-91477804,Robert T.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-88127690,Dean T.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-77760035,Darin B.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-69076895,Wayne D.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,B-65596038,Kathleen T.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-61104656,Allan S.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-41001359,Roy F.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-30271244,Kelly S.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-23448141,Gladys B.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,C-16858915,Jodi T.,,2,"$2,000.00",0
+27,11,2025,Split The Pot November 2025,A-80546917,Dale B.,,2,"$13,000.00",0
+27,11,2025,Split The Pot November 2025,A-66795868,Lindsay B.,,2,"$13,000.00",0
+27,11,2025,Split The Pot November 2025,A-17369696,Marivic M.,,1,"$79,224.00",0
+4,12,2025,Split The Pot December 2025,A-33981191,Carolyn M.,,2,"$5,000.00",0
+11,12,2025,Split The Pot December 2025,A-80689695,James K.,,2,"$3,000.00",0
+18,12,2025,Split The Pot December 2025,A-76683467,Donald C.,,2,"$2,000.00",0
+1,1,2026,Split The Pot January 2026,A-80310774,Sandra K.,,2,"$2,000.00",0
+1,1,2026,Split The Pot January 2026,A-80169159,Agnes P.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,A-70788051,Michelle J.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,A-64942952,Barbara J.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,B-63481432,Wendy H.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,A-28445039,Paul P.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,B-60560044,Linda H.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,A-57134319,Clem A.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,B-22946345,Kara-Lyn F.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,A-16800694,Brenda B.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,A-14846121,Cindy R.,,1,"$2,778.30",0
+1,1,2026,Split The Pot January 2026,A-67013613,Patrick G.,,1,"$13,891.50",0
+1,1,2026,Split The Pot January 2026,A-97156163,Guenter H.,,1,"$13,891.50",0
+1,1,2026,Split The Pot January 2026,B-43734032,Maria C.,,1,"$83,349.00",0
+8,1,2026,Split The Pot January 2026,C-90002409,Tracy S.,,2,"$2,500.00",0
+8,1,2026,Split The Pot January 2026,A-83579518,Lovepreet M.,,2,"$2,500.00",0
+15,1,2026,Split The Pot January 2026,A-89018485,Monika E.,,2,"$2,000.00",0
+22,1,2026,Split The Pot January 2026,B-48365521,Carolyn M.,,2,"$3,000.00",0
+29,1,2026,Split The Pot January 2026,A-90514670,Joanne S.,Brooks’s,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,A-87843460,Sandra S.,Sturgeon County,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,A-78929488,Arden B.,Calgary,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,A-72683942,Ian S.,Sturgeon County,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,B-63924562,Maureen L.,Daysland,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,A-42493422,Gary G.,Medicine Hat,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,B-37467799,Christine B.,Grande Prairie,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,B-25208735,William S.,Edmonton,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,A-23003316,Debbie P.,Lloydminster,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,A-20820467,Ian S.,Sturgeon County,1,"$2,018.90",0
+29,1,2026,Split The Pot January 2026,B-80961098,Bradley B.,Edmonton,1,"$10,094.50",0
+29,1,2026,Split The Pot January 2026,A-10525420,Paul P.,Bellevue,1,"$10,094.50",0
+29,1,2026,Split The Pot January 2026,B-43256673,Lorna B.,Airdrie,1,"$60,567.00",0
+5,2,2026,Split The Pot February 2026,A-85659215,Daryl C.,Smoky Lake,2,"$6,000.00",0
+12,2,2026,Split The Pot February 2026,A-47457192,Fredrick B.,Calgary,2,"$2,000.00",0
+19,2,2026,Split The Pot February 2026,A-81202865,Arden T.,Cranford,2,"$1,000.00",0
+19,2,2026,Split The Pot February 2026,A-16696483,Kevin B.,Calgary,2,"$1,000.00",0
+26,2,2026,Split The Pot February 2026,95494320,Marilynn H.,Edmonton,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,98523855,Fedec D.,Fort McMurray,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,97360552,Jaswinder M.,Beaumont,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,84474386,Eric E.,Sylvan Lake,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,80501249,Michelle P.,Calgary,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,56111186,Darla M.,Grande Prairie,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,36878900,Dale B.,Edmonton,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,29804420,Douglas E.,High River,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,13073909,Nairn N.,Okotoks,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,27421817,Jennie M.,Edmonton,1,"$1,893.40",0
+26,2,2026,Split The Pot February 2026,38931082,Keli F.,Edmonton,1,"$9,467.00",0
+26,2,2026,Split The Pot February 2026,82021109,Eleanor G.,Cypress County,1,"$9,467.00",0
+26,2,2026,Split The Pot February 2026,78824316,Guenter H.,Sherwood Park,1,"$56,802.00",0
+5,3,2026,Split The Pot March 2026,B-90376263,Rabin M.,Edmonton,2,"$15,000.00",0
+12,3,2026,Split The Pot March 2026,A-46546160,Chelsea N.,Wetaskiwin,2,"$1,000.00",0
+19,3,2026,Split The Pot March 2026,A-51553872,Katherine H.,Edmonton,2,"$2,000.00",0
+19,3,2026,Split The Pot March 2026,A-44075332,Ron M.,Sherwood Park,2,"$2,000.00",0
+26,3,2026,Split The Pot March 2026,A-90499769,Marshall C.,Calgary,1,"$51,651.00",0
+26,3,2026,Split The Pot March 2026,A-90199179,Sylvia M.,High River,1,"$8,608.50",0
+26,3,2026,Split The Pot March 2026,A-29574007,Yaowarase R.,Sedgewick,1,"$8,608.50",0
+26,3,2026,Split The Pot March 2026,A-92923841,Ron M.,Sherwood Park,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,C-89708828,Sandi A.,Calgary,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,C-84317654,Diane Y.,Westlock,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,B-79080467,Harold P.,Halkirk,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,A-75142744,Bev F.,Edmonton,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,B-52197187,Theo H.,Edmonton,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,C-69860541,Paula P.,Sherwood Park,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,A-49199407,Brad M.,Taber,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,A-39659701,Candace S.,Bittern Lake,1,"$1,721.70",0
+26,3,2026,Split The Pot March 2026,A-21404683,Susan D.,Fisiview,1,"$1,721.70",0
+2,4,2026,Split The Pot April 2026,A-95350165,George W.,Calgary,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-88186888,Derek R.,Leduc,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-23625868,Lily L.,Calgary,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,B-78451043,Jennifer N.,Bassano,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-48981420,Jennifer P.,Carstairs,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-24327838,Jennifer W.,Grand Prairie,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-15148461,Zaneta K.,Grand Prairie,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-12845609,Shirley S.,High River,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-96895375,Michael B.,Edmonton,2,"$1,000.00",0
+2,4,2026,Split The Pot April 2026,A-21015909,Gary M.,Claresholm,2,"$1,000.00",0
