@@ -1,4 +1,4 @@
-DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeID,PrizeTitle,PrizeAmount
+DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTitle,PrizeAmount
 21,5,2024,Split The Pot May 2024,3746426,Maureen F.,Winnipeg,5,"$2,000.00",0
 21,5,2024,Split The Pot May 2024,7005147,Annette O.,Winnipeg,5,"$2,000.00",0
 28,5,2024,Split The Pot May 2024,6234682,Howard N.,Winnipeg,5,"$1,000.00",0
