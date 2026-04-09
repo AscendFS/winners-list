@@ -1,177 +1,4 @@
-DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTitle,PrizeAmount
-18,9,2024,Split The Pot September 2024,14635643,Richard S.,Somerset,5,"$1,500.00",0
-18,9,2024,Split The Pot September 2024,16478877,Nick A.,Thompson,5,"$1,500.00",0
-25,9,2024,Split The Pot September 2024,14585868,Judith R.,Winnipeg,5,"$1,500.00",0
-25,9,2024,Split The Pot September 2024,14501266,Cheryl B.,Winnipeg,5,"$1,500.00",0
-2,10,2024,Split The Pot October 2024,13692354,Faith L.,Balmoral,5,"$2,000.00",0
-2,10,2024,Split The Pot October 2024,11568778,Barry N.,Kenville,5,"$2,000.00",0
-9,10,2024,Split The Pot October 2024,18765369,Katelyn W.,Winnipeg,5,"$2,500.00",0
-9,10,2024,Split The Pot October 2024,15299389,Steve N.,Winnipeg,5,"$2,500.00",0
-16,10,2024,Split The Pot October 2024,18241350,Theresa G.,Winnipeg,5,"$5,000.00",0
-16,10,2024,Split The Pot October 2024,13306178,Nancy C.,Winnipeg,5,"$5,000.00",0
-23,10,2024,Split The Pot October 2024,14224598,Sue B.,Winnipeg,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,13449258,Tina P.,St. Andrews,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,18713999,Norman L.,Winnipeg,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,11226065,Patricia P.,Morris,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,13858368,Lisa K.,Winnipeg,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,18845483,John P.,Stonewall,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,10132343,Johanna E.,Mitchell,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,15995005,Heather K.,Petersfield,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,14853851,Ann G.,Winnipeg,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,13267568,Christine S.,Winnipeg,1,"$3,933.15",0
-23,10,2024,Split The Pot October 2024,16884818,Patty T.,Winnipeg,1,"$19,665.75",0
-23,10,2024,Split The Pot October 2024,11297505,Derek R.,Winnipeg,1,"$19,665.75",0
-23,10,2024,Split The Pot October 2024,18872921,Pam S.,Winnipeg,1,"$1,17,994.50",0
-27,11,2024,Split The Pot November 2024,95115113,Susan B.,East Selkirk,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,29907783,Valerie L.,Steinbach,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,36656276,Kelly K.,Winnipeg,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,99486181,Paula D.,Morden,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,55337300,Jennifer W.,Winnipeg,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,11640871,Ian M.,Winnipeg,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,34216873,Mt James B.,Winnipeg,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,95333353,Teresita C.,Winnipeg,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,49031224,Janet M.,Winnipeg,5,"$1,000.00",0
-27,11,2024,Split The Pot November 2024,71832714,Elaine G.,Winnipeg,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,74659726,Tim B.,Saint Andrews,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,99001645,Paige B.,Mitchell,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,57909167,Kevin F.,Lockport,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,36973340,Duane K.,Arborg,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,18270146,Sandra G.,Winnipeg,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,47586212,Dennis B.,Winnipeg,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,72780466,Madeline S.,Russell,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,54014593,Edward K.,Winnipeg,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,20935350,Ryan M.,Winnipeg,5,"$1,000.00",0
-4,12,2024,Split The Pot December 2024,69053618,Daniel R.,Saint Adolphe,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,72880062,Sylvia E.,Winnipeg,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,64818462,Hannah W.,Niverville,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,41195004,Kendra W.,Winnipeg,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,99021996,Marti D.,Steinbach,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,23295279,She R.,Winnipeg,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,50680044,Greg E.,Winnipeg,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,48340262,Clayton M.,Winnipeg,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,82670028,Holly O.,East Saint Paul,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,59961788,Trina R.,Thompson,5,"$1,000.00",0
-11,12,2024,Split The Pot December 2024,90903221,Holly O.,East Saint Paul,5,"$1,000.00",0
-18,12,2024,Split The Pot December 2024,10505114,Geraldine K.,East Saint Paul,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,73325612,Christine B.,Winnipeg,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,89412278,Tony M.,Brandon,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,91062056,Tak Chiu T.,Winnipeg,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,99596539,Gemma D.,Winnipeg,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,28712108,Krysta W.,Winnipeg,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,79226939,Robert B.,Narol,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,13218922,Bruce R.,Melita,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,92211063,Helen O.,East Saint Paul,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,49304693,Marcia T.,Winnipeg,1,"$3,701.00",0
-18,12,2024,Split The Pot December 2024,21366856,Tom R.,Clandeboye,1,"$18,503.00",0
-18,12,2024,Split The Pot December 2024,23795542,Brenda G.,Poplar River,1,"$18,503.00",0
-18,12,2024,Split The Pot December 2024,47744178,Norman L.,Winnipeg,1,"$1,11,020.00",0
-5,2,2025,Split The Pot February 2025,14924246,Madeline S.,Russell,5,"$2,000.00",0
-5,2,2025,Split The Pot February 2025,23172338,Brian B.,Winnipeg,5,"$2,000.00",0
-12,2,2025,Split The Pot February 2025,10676034,Leslie M.,Winnipeg,5,"$1,500.00",0
-12,2,2025,Split The Pot February 2025,19172463,Jannelle A.,Winnipeg,5,"$1,500.00",0
-19,2,2025,Split The Pot February 2025,37346086,Kelci T.,St. Andrews,5,"$3,000.00",0
-26,2,2025,Split The Pot February 2025,94451374,Logan B.,Winnipeg,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,86113936,Angela S.,Morden,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,37267795,Karin B.,St. Andrews,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,61069407,Wayde R.,Cranberry Portage,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,58807958,Lori G.,Lorette West,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,36837670,Katherine M.,St. Adolphe,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,38616268,Deb H.,Winnipeg,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,60770780,Randy C.,Winnipeg,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,49943240,Barb W.,Winnipeg,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,90570114,Venly C.,Winnipeg,1,"$2,618.00",0
-26,2,2025,Split The Pot February 2025,94002681,Ward H.,East Saint Paul,1,"$13,092.00",0
-26,2,2025,Split The Pot February 2025,10387741,Brittany F.,Rosa,1,"$13,092.00",0
-26,2,2025,Split The Pot February 2025,99481533,Katherine M.,St. Adolphe,1,"$78,552.00",0
-5,3,2025,Split The Pot March 2025,15306114,Raymond M.,Winnipeg,5,"$3,000.00",0
-12,3,2025,Split The Pot March 2025,86099503,Linda H.,Winnipeg,5,"$2,000.00",0
-12,3,2025,Split The Pot March 2025,18386473,Helen O.,East St. Paul,5,"$2,000.00",0
-19,3,2025,Split The Pot March 2025,89439406,Janine H.,Winnipeg,5,"$1,500.00",0
-19,3,2025,Split The Pot March 2025,48297997,Jacqueline S.,Winnipeg,5,"$1,500.00",0
-26,3,2025,Split The Pot March 2025,37258797,Lorelle S.,Winnipeg,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,63604026,Mariia G.,Winnipeg,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,69379163,Allan Y.,East Saint,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,65821055,Andre C.,Winnipeg,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,82824869,Douglas W.,Brandon,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,11008299,Jennifer T.,Sandy Hook,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,77445575,Marcel K.,St. Laurent,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,92574896,Alexander M.,Winnipeg,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,61005876,Kelsey K.,Thompson,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,59447172,Julian M.,Winnipeg,1,"$1,598.10",0
-26,3,2025,Split The Pot March 2025,20969913,Cory P.,East Selkirk,1,"$7,990.50",0
-26,3,2025,Split The Pot March 2025,21425368,Marie L.,Winnipeg,1,"$7,990.50",0
-26,3,2025,Split The Pot March 2025,44276760,Oksana V.,East St. Paul,1,"$47,943.00",0
-2,4,2025,Split The Pot April 2025,52896577,Marnelli Q.,Winnipeg,5,"$1,500.00",0
-2,4,2025,Split The Pot April 2025,97047662,Tony K.,Winnipeg,5,"$1,500.00",0
-9,4,2025,Split The Pot April 2025,44847891,Kumiko Y.,Winnipeg,5,"$3,000.00",0
-16,4,2025,Split The Pot April 2025,88393887,Susan B.,Winnipeg,5,"$2,000.00",0
-16,4,2025,Split The Pot April 2025,64285737,Bernadette R.,Winnipeg,5,"$2,000.00",0
-23,4,2025,Split The Pot April 2025,73603592,Mark A.,Winnipeg,5,Groceries for a Year,0
-30,4,2025,Split The Pot April 2025,92965158,Tracey P.,Parry Sound,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,98038218,Tracey P.,Winnipeg,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,87246713,Patricia D.,Winnipeg,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,61740439,Virginia W.,Sandy Hook,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,78602458,Daniel L.,Winnipeg,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,49369089,Kyle G.,Winnipeg,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,50479811,Greg J.,Winnipeg,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,28125169,Virginia W.,Sandy Hook,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,44000753,Mark O.,Winnipeg,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,25066015,Tara C.,East Saint Paul,1,"$2,751.75",0
-30,4,2025,Split The Pot April 2025,94925042,Patrick F.,Pine Falls,1,"$13,758.75",0
-30,4,2025,Split The Pot April 2025,21893715,Tak Chiu T.,Winnipeg,1,"$13,758.75",0
-30,4,2025,Split The Pot April 2025,65034718,Mark A.,Winnipeg,1,"$82,552.50",0
-7,5,2025,Split The Pot May 2025,94422961,Treavor W.,Winnipeg,5,"$1,500.00",0
-7,5,2025,Split The Pot May 2025,72755698,Lynnette J.,Virden,5,"$1,500.00",0
-9,5,2025,Split The Pot May 2025,23181133,Eric T.,Flin Flon,5,The One Great Mother's Day Bonus Prize,0
-14,5,2025,Split The Pot May 2025,52561653,Jane P.,Matlock,5,"$3,000.00",0
-21,5,2025,Split The Pot May 2025,62577410,Laura T.,Winnipeg,5,"$2,000.00",0
-21,5,2025,Split The Pot May 2025,52176340,Ted S.,LaSalle,5,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,95089263,Connie S.,Winnipeg,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,72129297,Carole T.,Winnipeg,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,66029490,Sarah G.,Winnipeg,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,51503914,George C.,Winnipeg,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,49772195,Analin L.,Winnipeg,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,49288137,Celena G.,Winnipeg,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,34265531,Chris S.,Steinbach,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,13768056,Natalie G.,West Saint Paul,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,13705125,Brent K.,Winnipeg,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,13447191,Sosefo G.,Franklin,1,"$2,000.00",0
-28,5,2025,Split The Pot May 2025,44503954,Ashtyn S.,Lynn Lake,1,"$10,000.00",0
-28,5,2025,Split The Pot May 2025,26700007,Mercedes B.,Winnipeg,1,"$10,000.00",0
-28,5,2025,Split The Pot May 2025,94923211,Itai A.,Winnipeg,1,"$60,000.00",0
-4,6,2025,Split The Pot June 2025,20960786,Christine D.,Ste Anne,5,Groceries for a Year,0
-11,6,2025,Split The Pot June 2025,21592343,Barbara W.,Pine River,5,"Groceries for a Year OR $8,000 cash",0
-18,6,2025,Split The Pot June 2025,15789213,Karmaine P.,Winnipeg,5,"Groceries for a Year OR $8,000 cash",0
-25,6,2025,Split The Pot June 2025,21526833,Demi De L.,Winnipeg,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,14526160,Loretta K.,Winnipeg,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,13077916,Shannon J.,Winnipeg,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,22696945,Gisele A.,Matlock,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,27414705,Joan G.,Oakbank,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,24041161,Emily P.,Winnipeg,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,12305357,Dave G.,Winnipeg,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,12097538,Sandra G.,Winnipeg,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,24114049,Tina T.,Oakbank,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,28210005,Celine D.,Winnipeg,1,"$2,500.00",0
-25,6,2025,Split The Pot June 2025,19431271,Amanda S.,East St Paul,1,"$12,500.00",0
-25,6,2025,Split The Pot June 2025,13524399,Andre C.,Winnipeg,1,"$12,500.00",0
-25,6,2025,Split The Pot June 2025,11632579,Dennis P.,Stonewall,1,"$75,000.00",0
-2,7,2025,Split The Pot July 2025,22519620,Sandra. E.,Clandeboye,5,"Gas for a Year OR $4,000 cash",0
-9,7,2025,Split The Pot July 2025,6239199,Albert C.,Winnipeg,5,"Gas for a Year OR $4,000 cash",0
-16,7,2025,Split The Pot July 2025,28345263,Ranjie M.,Winnipeg,5,"Gas for a Year OR $4,000 cash",0
-23,7,2025,Split The Pot July 2025,18206621,Janine L.,Winnipeg,5,"Groceries for a Year OR $8,000 cash",0
-30,7,2025,Split The Pot July 2025,27971809,Kenneth K.,Landmark,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,28892244,Cheryl D.,Winnipeg,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,27442251,Ted S.,LaSalle,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,22188975,Greg K.,Winnipeg,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,27257431,JAYSON R.,Winnipeg,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,19562430,Randy M.,Lundar,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,20155558,Marie B.,Winnipeg,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,13766712,Kathleen K.,Russell,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,12053925,Carol H.,Winnipeg,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,13032260,Marlene B.,Winnipeg,1,"$1,706.05",0
-30,7,2025,Split The Pot July 2025,15878883,Irene S.,Winnipeg,1,"$8,530.25",0
-30,7,2025,Split The Pot July 2025,14720204,Mike D.,Winnipeg,1,"$8,530.25",0
-30,7,2025,Split The Pot July 2025,29580684,Andrew R.,Winnipeg,1,"$51,181.50",0
+DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTitle,PrizeAmoun
 6,8,2025,Split The Pot August 2025,19426851,Jeannette M.,Winnipeg,5,"$1,500.00",0
 6,8,2025,Split The Pot August 2025,14706892,Tak Chiu T.,Winnipeg,5,"$1,500.00",0
 6,8,2025,Split The Pot August 2025,26525494,Doug R.,Winnipeg,5,"$1,000.00",0
@@ -254,59 +81,59 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTi
 27,11,2025,Split The Pot November 2025,28576420,Ruth H.,Beausejour,5,"$8,020.00",0
 27,11,2025,Split The Pot November 2025,13601158,Nadia R.,Winnipeg,5,"$8,020.00",0
 27,11,2025,Split The Pot November 2025,13704989,Randy M.,Oak Bluff,1,"$48,120.00",0
-4,12,2025,Split The Pot December 2025,20068029,Doreen R.,Selkirk,5,"$3,000.00",0
-18,12,2025,Split The Pot December 2025,23024229,Paulina T.,Winnipeg,5,"$1,500.00",0
-1,1,2026,Split The Pot January 2026,29287738,Christine L.,Anola,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,25867174,Dana L.,Winnipeg,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,24120086,Garry S.,Winnipeg,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,21312340,Bonnie D.,Winnipeg,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,20618834,Frances J.,Winnipeg,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,18279892,Robert Y.,Winnipeg,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,16359927,Joanna B.,Winnipeg,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,11285585,Jordyn H.,Lorette,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,11285091,Surinderpal S.,Winnipeg,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,10096690,Marlene H.,Grunthal,5,"$1,690.45",0
-1,1,2026,Split The Pot January 2026,27976770,Patricia S.,Winnipeg,5,"$2,000.00",0
-1,1,2026,Split The Pot January 2026,29624772,Linda W.,Riverton,5,"$8,452.25",0
-1,1,2026,Split The Pot January 2026,19667237,Mike S.,Winnipeg,5,"$8,452.25",0
-1,1,2026,Split The Pot January 2026,21060607,Darlene J.,Winnipeg,1,"$50,713.50",0
-8,1,2026,Split The Pot January 2026,26100001,Juana B.,Headingley,5,"$5,000.00",0
-22,1,2026,Split The Pot January 2026,28916957,Randy M.,Oak Bluff,5,"$1,500.00",0
-29,1,2026,Split The Pot January 2026,11885728,Jay S.,East St Paul,1,"$6,115.25",0
-29,1,2026,Split The Pot January 2026,16295854,Mark K.,Winnipeg,1,"$36,691.50",0
-29,1,2026,Split The Pot January 2026,29520514,Jane G.,Beausejour,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,28558911,Pamela M.,Winnipeg,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,28074792,Marcy T.,Winnipeg,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,25963258,Virginia T.,Winnipeg,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,23963726,Celine C.,Winnipeg,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,21675570,William Y.,Winnipeg,1,"$6,115.25",0
-29,1,2026,Split The Pot January 2026,21005359,Amanda S.,East St Paul,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,18095980,Melissa M.,Winnipeg,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,16464448,Leizyl H.,Winnipeg,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,14021749,Mike L.,Winnipeg,1,"$1,223.05",0
-29,1,2026,Split The Pot January 2026,13070536,Jayson R.,Winnipeg,1,"$1,223.05",0
-5,2,2026,Split The Pot February 2026,13975402,Rebeka K.,La Broquerie,5,"$5,000.00",0
-12,2,2026,Split The Pot February 2026,23954153,Rick K.,East Saint Paul,5,"$1,000.00",0
-12,2,2026,Split The Pot February 2026,11987694,Jane G.,Beausejour,5,"$1,000.00",0
-19,2,2026,Split The Pot February 2026,25324273,Charles T.,Winnipeg,5,"$1,000.00",0
-19,2,2026,Split The Pot February 2026,20362323,Analissa G.,Winnipeg,5,$500.00,0
-26,2,2026,Split The Pot February 2026,14513885,Richard C.,East Saint Paul,1,"$33,816.00",0
-26,2,2026,Split The Pot February 2026,26998827,Trina K.,Winnipeg,1,"$5,636.00",0
-26,2,2026,Split The Pot February 2026,23341210,Janice M.,Winnipeg,1,"$5,636.00",0
-26,2,2026,Split The Pot February 2026,29854534,Armand J.,Lac Du Bonnet,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,28813292,Mark G.,Winnipeg,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,27631738,Judy B.,Winnipeg,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,27505334,Tamara M.,Winnipeg,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,25705806,Julie W.,Winnipeg,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,25553406,Sean P.,Winnipeg,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,22569766,Mona-Ã‰lise S.,Winnipeg,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,17785091,Terry S.,Gimli,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,12148640,Eleanor D.,Winnipeg,1,"$1,127.20",0
-26,2,2026,Split The Pot February 2026,10509783,Dave P.,Winnipeg,1,"$1,127.20",0
-5,3,2026,Split The Pot March 2026,13407233,Barbara H.,Winnipeg,5,"$10,000.00",0
-12,3,2026,Split The Pot March 2026,C-21845061,Carole T.,Winnipeg,5,$500.00,0
-12,3,2026,Split The Pot March 2026,C-10334497,Tilly K.,Winnipeg,5,$500.00,0
-19,3,2026,Split The Pot March 2026,C-17131544,Tiffany S.,Winnipeg,5,"$1,000.00",0
+4,12,2025,Split The Pot December 2025,A-20068029,Doreen R.,Selkirk,5,"$3,000.00",0
+18,12,2025,Split The Pot December 2025,A-23024229,Paulina T.,Winnipeg,5,"$1,500.00",0
+1,1,2026,Split The Pot December 2026,A-29287738,Christine L.,Anola,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-5867174,Dana L.,Winnipeg,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-24120086,Garry S.,Winnipeg,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-21312340,Bonnie D.,Winnipeg,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-20618834,Frances J.,Winnipeg,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-18279892,Robert Y.,Winnipeg,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-16359927,Joanna B.,Winnipeg,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-11285585,Jordyn H.,Lorette,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-11285091,Surinderpal S.,Winnipeg,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-10096690,Marlene H.,Grunthal,5,"$1,690.45",0
+1,1,2026,Split The Pot December 2026,A-27976770,Patricia S.,Winnipeg,5,"$2,000.00",0
+1,1,2026,Split The Pot December 2026,A-29624772,Linda W.,Riverton,5,"$8,452.25",0
+1,1,2026,Split The Pot December 2026,A-19667237,Mike S.,Winnipeg,5,"$8,452.25",0
+1,1,2026,Split The Pot December 2026,A-21060607,Darlene J.,Winnipeg,1,"$50,713.50",0
+8,1,2026,Split The Pot January 2026,B-26100001,Juana B.,Headingley,5,"$5,000.00",0
+22,1,2026,Split The Pot January 2026,B-28916957,Randy M.,Oak Bluff,5,"$1,500.00",0
+29,1,2026,Split The Pot January 2026,B-11885728,Jay S.,East St Paul,1,"$6,115.25",0
+29,1,2026,Split The Pot January 2026,B-16295854,Mark K.,Winnipeg,1,"$36,691.50",0
+29,1,2026,Split The Pot January 2026,B-29520514,Jane G.,Beausejour,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-28558911,Pamela M.,Winnipeg,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-28074792,Marcy T.,Winnipeg,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-25963258,Virginia T.,Winnipeg,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-23963726,Celine C.,Winnipeg,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-21675570,William Y.,Winnipeg,1,"$6,115.25",0
+29,1,2026,Split The Pot January 2026,B-21005359,Amanda S.,East St Paul,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-18095980,Melissa M.,Winnipeg,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-16464448,Leizyl H.,Winnipeg,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-14021749,Mike L.,Winnipeg,1,"$1,223.05",0
+29,1,2026,Split The Pot January 2026,B-13070536,Jayson R.,Winnipeg,1,"$1,223.05",0
+5,2,2026,Split The Pot February 2026,C-13975402,Rebeka K.,La Broquerie,5,"$5,000.00",0
+12,2,2026,Split The Pot February 2026,C-23954153,Rick K.,East Saint Paul,5,"$1,000.00",0
+12,2,2026,Split The Pot February 2026,C-11987694,Jane G.,Beausejour,5,"$1,000.00",0
+19,2,2026,Split The Pot February 2026,C-25324273,Charles T.,Winnipeg,5,"$1,000.00",0
+19,2,2026,Split The Pot February 2026,C-20362323,Analissa G.,Winnipeg,5,$500.00,0
+26,2,2026,Split The Pot February 2026,C-14513885,Richard C.,East Saint Paul,1,"$33,816.00",0
+26,2,2026,Split The Pot February 2026,C-26998827,Trina K.,Winnipeg,1,"$5,636.00",0
+26,2,2026,Split The Pot February 2026,C-23341210,Janice M.,Winnipeg,1,"$5,636.00",0
+26,2,2026,Split The Pot February 2026,C-29854534,Armand J.,Lac Du Bonnet,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-28813292,Mark G.,Winnipeg,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-27631738,Judy B.,Winnipeg,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-27505334,Tamara M.,Winnipeg,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-25705806,Julie W.,Winnipeg,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-25553406,Sean P.,Winnipeg,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-22569766,Mona-Ã‰lise S.,Winnipeg,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-17785091,Terry S.,Gimli,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-12148640,Eleanor D.,Winnipeg,1,"$1,127.20",0
+26,2,2026,Split The Pot February 2026,C-10509783,Dave P.,Winnipeg,1,"$1,127.20",0
+5,3,2026,Split The Pot March 2026,D-13407233,Barbara H.,Winnipeg,5,"$10,000.00",0
+12,3,2026,Split The Pot March 2026,D-21845061,Carole T.,Winnipeg,5,$500.00,0
+12,3,2026,Split The Pot March 2026,D-10334497,Tilly K.,Winnipeg,5,$500.00,0
+19,3,2026,Split The Pot March 2026,D-17131544,Tiffany S.,Winnipeg,5,"$1,000.00",0
 26,3,2026,Split The Pot March 2026,D-12301530,Brian C.,Winnipeg,1,"$30,025.50",0
 26,3,2026,Split The Pot March 2026,D-21084392,Sylvia B.,Brandon,1,"$5,004.25",0
 26,3,2026,Split The Pot March 2026,D-15580804,May R.,Winnipeg,1,"$5,004.25",0
