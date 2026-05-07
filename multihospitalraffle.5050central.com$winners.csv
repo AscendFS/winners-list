@@ -46,7 +46,6 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTi
 27,11,2025,Split The Pot November 2025,I-25297506,Lisa L.,Markham,1,"$53,886.50",0
 27,11,2025,Split The Pot November 2025,I-33637748,Barbara F.,Marten River,1,"$53,886.50",0
 27,11,2025,Split The Pot November 2025,I-43536379,Michelle P.,Kitchener,1,"$323,319",0
-
 4,12,2025,Split The Pot December 2025,J-10886679,Denise D.,Acton,5,"$5,000",0
 4,12,2025,Split The Pot December 2025,J-12704347,Arthur S.,Toronto,5,"$5,000",0
 4,12,2025,Split The Pot December 2025,J-17845132,Wayne G.,Timmins,5,"$5,000",0
@@ -103,7 +102,6 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTi
 29,1,2026,Split The Pot January 2026,K-47940451,Connie C.,Sarnia,1,"$50,000",0
 29,1,2026,Split The Pot January 2026,K-37349305,Ben Van A.,Rutherglen,1,"$50,000",0
 29,1,2026,Split The Pot January 2026,K-32364888,Nick Del M.,Burlington,1,"$300,000",0
-
 5,2,2026,Split The Pot February 2026,L-50243572,Wayne C.,Grand Bend,5,"$5,000",0
 5,2,2026,Split The Pot February 2026,L-45031523,David B.,North Bay,5,"$5,000",0
 5,2,2026,Split The Pot February 2026,L-58735807,Janice H.,Kitchener,5,"$10,000",0
@@ -177,3 +175,5 @@ DrawDay,DrawMonth,DrawYear,EventTitle,TicketNo,Name,Location,PrizeTypeId,PrizeTi
 30,4,2026,Split The Pot April 2026,N-96044876,Annette B.,Kitchener,1,"12,000",0
 30,4,2026,Split The Pot April 2026,N-56531613,Betty T.,Cochrane,1,"12,000",0
 30,4,2026,Split The Pot April 2026,N-80933748,Fay S.,Niagara Falls,1,"12,000",0
+7,5,2026,Split The Pot April 2026,O-11207843,Kelly C.,Bala,1,"Gas for a year",0
+7,5,2026,Split The Pot April 2026,O-76100160,Murray B.,Kitchener,1,"Groceries for a year",0
