@@ -1,22 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,25,BK-64468034,2,$1000,0,Carole,5,11,2025
-Early Bird,25,BK-31027592,2,$1000,0,Darlene,10,11,2025
-Early Bird,25,BK-72883031,2,$1000,0,John,12,11,2025
-Early Bird,25,BK-15890474,2,$1000,0,Christiane,13,11,2025
-Early Bird,25,BK-74121266,2,$1000,0,Sylvie,14,11,2025
-Early Bird,25,BK-60484644,2,$1000,0,Peter & Jim & Wayne,18,11,2025
-Early Bird,25,BK-59805604,2,Ski-Doo snowmobile,0,Kristie,20,11,2025
-Early Bird,25,BK-59152722,2,$1000,0,Nancy,26,11,2025
-Grand Prize,25,BK-67326333,1,Jackpot,132758,Krish,28,11,2025
-Early Bird,26,BL-77207821,2,$3000,0,Mia,1,12,2025
-Early Bird,26,BL-13605028,2,$3000,0,Lana,8,12,2025
-Early Bird,26,BL-68494125,2,$1000,0,Karina,11,12,2025
-Early Bird,26,BL-25346426,2,$3000,0,Julie,15,12,2025
-Early Bird,26,BL-73119503,2,$2000,0,Tina,18,12,2025
-Early Bird,26,BL-47906586,2,$3000,0,Dave,22,12,2025
-Early Bird,26,BL-64657653,2,$20000,0,Jean Marc,23,12,2025
-Early Bird,26,BL-48416149,2,2026 Honda CR-V Hybrid Trailsport,0,Joanne,30,12,2025
-Grand Prize,26,BL-70932444,1,Jackpot,253212,Rhonda & Group,31,12,2025
 Early Bird,27,BM-62340057,2,$1000,0,Thomas,7,1,2026
 Early Bird,27,BM-35419092,2,$1000,0,Holly,12,1,2026
 Early Bird,27,BM-78519694,2,$1000,0,Murielle,13,1,2026
@@ -74,3 +56,4 @@ Early Bird,33,BS-26236300,2,$2000,0,Christine,6,7,2026
 Early Bird,33,BS-95252239,2,$5000,0,Burt,10,7,2026
 Early Bird,33,BS-64510693,2,$2000,0,William,13,7,2026
 Early Bird,33,BS-83487028,2,$5000,0,Tyler,17,7,2026
+Early Bird,33,BS-98570897,2,$2000,0,Michelle,20,7,2026
