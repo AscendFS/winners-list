@@ -1,0 +1,5 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,M-1234567,2,$3456,0,John L.,21,5,2026
+Early Bird,1,M-7654321,2,$987,0,Lenny Y.,29,5,2026
+Early Bird,1,A-87654321,2,$3456,0,Kaitlyn C.,12,6,2026
+Grand Prize,1,M-2143657,1,Jackpot,80978,Shawn Q.,13,6,2026
